@@ -1,0 +1,504 @@
+as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_name,start_date,end_date,source,quote_status
+2023-12-31,spell-A-20000605,,A,A,Agilent Technologies,Agilent Technologies,2000-06-05,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AAL-20150323,,AAL,AAL,American Airlines Group,,2015-03-23,2024-09-23,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AAPL-19960102,,AAPL,AAPL,Apple Inc.,Apple Inc.,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ABBV-20130102,,ABBV,ABBV,AbbVie,AbbVie,2013-01-02,,fja_history,auto
+2023-12-31,spell-ABNB-20230918,,ABNB,ABNB,Airbnb,Airbnb,2023-09-18,,fja_history,auto
+2023-12-31,spell-ABT-19960102,,ABT,ABT,Abbott Laboratories,Abbott Laboratories,1996-01-02,,fja_history,auto
+2023-12-31,spell-ACGL-20221101,,ACGL,ACGL,Arch Capital Group,Arch Capital Group,2022-11-01,,fja_history,auto
+2023-12-31,spell-ACN-20110706,,ACN,ACN,Accenture,Accenture,2011-07-06,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ADBE-19970506,,ADBE,ADBE,Adobe Inc.,Adobe Inc.,1997-05-06,,fja_history,auto
+2023-12-31,spell-ADI-19991012,,ADI,ADI,Analog Devices,Analog Devices,1999-10-12,,fja_history,auto
+2023-12-31,spell-ADM-19960102,,ADM,ADM,Archer Daniels Midland,Archer Daniels Midland,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ADP-19960102,,ADP,ADP,Automatic Data Processing,Automatic Data Processing,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ADSK-19960102,,ADSK,ADSK,Autodesk,Autodesk,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AEE-19960102,,AEE,AEE,Ameren,Ameren,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AEP-19960102,,AEP,AEP,American Electric Power,American Electric Power,1996-01-02,,fja_history,auto
+2023-12-31,spell-AES-19981002,,AES,AES,AES Corporation,AES Corporation,1998-10-02,,fja_history,auto
+2023-12-31,spell-AFL-19990528,,AFL,AFL,Aflac,Aflac,1999-05-28,,fja_history,auto
+2023-12-31,spell-AIG-19960102,,AIG,AIG,American International Group,American International Group,1996-01-02,,fja_history,auto
+2023-12-31,spell-AIZ-20070410,,AIZ,AIZ,Assurant,Assurant,2007-04-10,,fja_history,auto
+2023-12-31,spell-AJG-20160531,,AJG,AJG,Arthur J. Gallagher & Co.,Arthur J. Gallagher & Co.,2016-05-31,,fja_history,auto
+2023-12-31,spell-AKAM-20070712,,AKAM,AKAM,Akamai Technologies,Akamai Technologies,2007-07-12,,fja_history,auto
+2023-12-31,spell-ALB-20160701,,ALB,ALB,Albemarle Corporation,Albemarle Corporation,2016-07-01,,fja_history,auto
+2023-12-31,spell-ALGN-20170619,,ALGN,ALGN,Align Technology,Align Technology,2017-06-19,,fja_history,auto
+2023-12-31,spell-ALL-19960102,,ALL,ALL,Allstate,Allstate,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ALLE-20131202,,ALLE,ALLE,Allegion,Allegion,2013-12-02,,fja_history,auto
+2023-12-31,spell-AMAT-19960102,,AMAT,AMAT,Applied Materials,Applied Materials,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AMCR-20190607,,AMCR,AMCR,Amcor,Amcor,2019-06-07,,fja_history,auto
+2023-12-31,spell-AMD-20170320,,AMD,AMD,Advanced Micro Devices,Advanced Micro Devices,2017-03-20,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AME-20130923,,AME,AME,Ametek,Ametek,2013-09-23,,fja_history,auto
+2023-12-31,spell-AMGN-19960102,,AMGN,AMGN,Amgen,Amgen,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AMP-20051003,,AMP,AMP,Ameriprise Financial,Ameriprise Financial,2005-10-03,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AMT-20071119,,AMT,AMT,American Tower,American Tower,2007-11-19,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AMZN-20051121,,AMZN,AMZN,Amazon,Amazon,2005-11-21,,fja_history,auto
+2023-12-31,spell-ANET-20180828,,ANET,ANET,Arista Networks,Arista Networks,2018-08-28,,fja_history,auto
+2023-12-31,spell-ANSS-20170619,,ANSS,ANSS,Ansys,,2017-06-19,2025-07-18,fja_history,auto
+2023-12-31,spell-AON-19960423,,AON,AON,Aon plc,Aon plc,1996-04-23,,fja_history,auto
+2023-12-31,spell-AOS-20170726,,AOS,AOS,A. O. Smith,A. O. Smith,2017-07-26,,fja_history,auto
+2023-12-31,spell-APA-19970728,,APA,APA,APA Corporation,APA Corporation,1997-07-28,,fja_history,auto
+2023-12-31,spell-APD-19960102,,APD,APD,Air Products,Air Products,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-APH-20080930,,APH,APH,Amphenol,Amphenol,2008-09-30,,fja_history,auto
+2023-12-31,spell-APTV-20121224,,APTV,APTV,Aptiv,Aptiv,2012-12-24,,fja_history,auto
+2023-12-31,spell-ARE-20170320,,ARE,ARE,Alexandria Real Estate Equities,Alexandria Real Estate Equities,2017-03-20,,fja_history,auto
+2023-12-31,spell-ATO-20190215,,ATO,ATO,Atmos Energy,Atmos Energy,2019-02-15,,fja_history,auto
+2023-12-31,spell-AVB-20070110,,AVB,AVB,AvalonBay Communities,AvalonBay Communities,2007-01-10,,fja_history,auto
+2023-12-31,spell-AVGO-20140508,,AVGO,AVGO,Broadcom,Broadcom,2014-05-08,,fja_history,auto
+2023-12-31,spell-AVY-19960102,,AVY,AVY,Avery Dennison,Avery Dennison,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AWK-20160304,,AWK,AWK,American Water Works,American Water Works,2016-03-04,,fja_history,auto
+2023-12-31,spell-AXON-20230504,,AXON,AXON,Axon Enterprise,Axon Enterprise,2023-05-04,,fja_history,auto
+2023-12-31,spell-AXP-19960102,,AXP,AXP,American Express,American Express,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-AZO-19970102,,AZO,AZO,AutoZone,AutoZone,1997-01-02,,fja_history,auto
+2023-12-31,spell-BA-19960102,,BA,BA,Boeing,Boeing,1996-01-02,,fja_history,auto
+2023-12-31,spell-BAC-19960102,,BAC,BAC,Bank of America,Bank of America,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-BALL-20220510,,BALL,BALL,Ball Corporation,Ball Corporation,2022-05-10,,fja_history,auto
+2023-12-31,spell-BAX-19960102,,BAX,BAX,Baxter International,Baxter International,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-BBWI-20210803,,BBWI,BBWI,"Bath & Body Works, Inc.",,2021-08-03,2024-10-01,fja_history,auto
+2023-12-31,spell-BBY-19990630,,BBY,BBY,Best Buy,Best Buy,1999-06-30,,fja_history,auto
+2023-12-31,spell-BDX-19960102,,BDX,BDX,Becton Dickinson,Becton Dickinson,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-BEN-19980429,,BEN,BEN,Franklin Resources,Franklin Resources,1998-04-29,,fja_history,auto
+2023-12-31,spell-BF_B-19960102,,BF.B,BF.B,Brown–Forman,Brown–Forman,1996-01-02,,fja_history,auto
+2023-12-31,spell-BG-20230315,,BG,BG,Bunge Global,Bunge Global,2023-03-15,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-BIIB-20031113,,BIIB,BIIB,Biogen,Biogen,2003-11-13,,fja_history,auto
+2023-12-31,spell-BIO-20200622,,BIO,BIO,Bio-Rad Laboratories,,2020-06-22,2024-09-23,fja_history,auto
+2023-12-31,spell-BK-19960102,,BK,BK,BNY Mellon,BNY Mellon,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-BKNG-20091106,,BKNG,BKNG,Booking Holdings,Booking Holdings,2009-11-06,,fja_history,auto
+2023-12-31,spell-BKR-20191018,,BKR,BKR,Baker Hughes,Baker Hughes,2019-10-18,,fja_history,auto
+2023-12-31,spell-BLDR-20231018,,BLDR,BLDR,Builders FirstSource,Builders FirstSource,2023-10-18,,fja_history,auto
+2023-12-31,spell-BLK-20110404,,BLK,BLK,BlackRock,BlackRock,2011-04-04,,fja_history,auto
+2023-12-31,spell-BMY-19960102,,BMY,BMY,Bristol Myers Squibb,Bristol Myers Squibb,1996-01-02,,fja_history,auto
+2023-12-31,spell-BR-20180618,,BR,BR,Broadridge Financial Solutions,Broadridge Financial Solutions,2018-06-18,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-BRK_B-20100216,,BRK.B,BRK.B,Berkshire Hathaway,Berkshire Hathaway,2010-02-16,,fja_history,auto
+2023-12-31,spell-BRO-20210920,,BRO,BRO,Brown & Brown,Brown & Brown,2021-09-20,,fja_history,auto
+2023-12-31,spell-BSX-19960102,,BSX,BSX,Boston Scientific,Boston Scientific,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-BWA-20111219,,BWA,BWA,BorgWarner,,2011-12-19,2025-04-24,fja_history,auto
+2023-12-31,spell-BX-20230918,,BX,BX,Blackstone Inc.,Blackstone Inc.,2023-09-18,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-BXP-20060403,,BXP,BXP,"BXP, Inc.","BXP, Inc.",2006-04-03,,fja_history,auto
+2023-12-31,spell-C-19960102,,C,C,Citigroup,Citigroup,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CAG-19960102,,CAG,CAG,Conagra Brands,Conagra Brands,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CAH-19970527,,CAH,CAH,Cardinal Health,Cardinal Health,1997-05-27,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CARR-20200403,,CARR,CARR,Carrier Global,Carrier Global,2020-04-03,,fja_history,auto
+2023-12-31,spell-CAT-19960102,,CAT,CAT,Caterpillar Inc.,Caterpillar Inc.,1996-01-02,,fja_history,auto
+2023-12-31,spell-CB-19960102,,CB,CB,Chubb Limited,Chubb Limited,1996-01-02,,fja_history,auto
+2023-12-31,spell-CBOE-20170301,,CBOE,CBOE,Cboe Global Markets,Cboe Global Markets,2017-03-01,,fja_history,auto
+2023-12-31,spell-CBRE-20061110,,CBRE,CBRE,CBRE Group,CBRE Group,2006-11-10,,fja_history,auto
+2023-12-31,spell-CCI-20120313,,CCI,CCI,Crown Castle,Crown Castle,2012-03-13,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CCL-19981222,,CCL,CCL,Carnival,Carnival,1998-12-22,,fja_history,auto
+2023-12-31,spell-CDAY-20210920,,CDAY,CDAY,Ceridian,,2021-09-20,2024-02-01,fja_history,auto
+2023-12-31,spell-CDNS-20170918,,CDNS,CDNS,Cadence Design Systems,Cadence Design Systems,2017-09-18,,fja_history,auto
+2023-12-31,spell-CDW-20190923,,CDW,CDW,CDW Corporation,CDW Corporation,2019-09-23,,fja_history,auto
+2023-12-31,spell-CE-20181224,,CE,CE,Celanese,,2018-12-24,2025-04-24,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CEG-20220202,,CEG,CEG,Constellation Energy,Constellation Energy,2022-02-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CF-20080827,,CF,CF,CF Industries,CF Industries,2008-08-27,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CFG-20160201,,CFG,CFG,Citizens Financial Group,Citizens Financial Group,2016-02-01,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CHD-20151229,,CHD,CHD,Church & Dwight,Church & Dwight,2015-12-29,,fja_history,auto
+2023-12-31,spell-CHRW-20070302,,CHRW,CHRW,C.H. Robinson,C.H. Robinson,2007-03-02,,fja_history,auto
+2023-12-31,spell-CHTR-20160908,,CHTR,CHTR,Charter Communications,Charter Communications,2016-09-08,,fja_history,auto
+2023-12-31,spell-CI-19960102,,CI,CI,Cigna,Cigna,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CINF-19971218,,CINF,CINF,Cincinnati Financial,Cincinnati Financial,1997-12-18,,fja_history,auto
+2023-12-31,spell-CL-19960102,,CL,CL,Colgate-Palmolive,Colgate-Palmolive,1996-01-02,,fja_history,auto
+2023-12-31,spell-CLX-19960102,,CLX,CLX,Clorox,Clorox,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CMA-19960102,,CMA,CMA,Comerica,,1996-01-02,2024-06-24,fja_history,auto
+2023-12-31,spell-CMCSA-19960102,,CMCSA,CMCSA,Comcast,Comcast,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CME-20060811,,CME,CME,CME Group,CME Group,2006-08-11,,fja_history,auto
+2023-12-31,spell-CMG-20110428,,CMG,CMG,Chipotle Mexican Grill,Chipotle Mexican Grill,2011-04-28,,fja_history,auto
+2023-12-31,spell-CMI-19960102,,CMI,CMI,Cummins,Cummins,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CMS-19990503,,CMS,CMS,CMS Energy,CMS Energy,1999-05-03,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CNC-20160330,,CNC,CNC,Centene Corporation,Centene Corporation,2016-03-30,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CNP-19960102,,CNP,CNP,CenterPoint Energy,CenterPoint Energy,1996-01-02,,fja_history,auto
+2023-12-31,spell-COF-19980701,,COF,COF,Capital One,Capital One,1998-07-01,,fja_history,auto
+2023-12-31,spell-COO-20160923,,COO,COO,Cooper Companies (The),Cooper Companies (The),2016-09-23,,fja_history,auto
+2023-12-31,spell-COP-19960102,,COP,COP,ConocoPhillips,ConocoPhillips,1996-01-02,,fja_history,auto
+2023-12-31,spell-COR-20230830,,COR,COR,Cencora,Cencora,2023-08-30,,fja_history,auto
+2023-12-31,spell-COST-19960102,,COST,COST,Costco,Costco,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CPB-19960102,,CPB,CPB,Campbell's Company (The),Campbell's Company (The),1996-01-02,,fja_history,auto
+2023-12-31,spell-CPRT-20180702,,CPRT,CPRT,Copart,Copart,2018-07-02,,fja_history,auto
+2023-12-31,spell-CPT-20220404,,CPT,CPT,Camden Property Trust,Camden Property Trust,2022-04-04,,fja_history,auto
+2023-12-31,spell-CRL-20210514,,CRL,CRL,Charles River Laboratories,Charles River Laboratories,2021-05-14,,fja_history,auto
+2023-12-31,spell-CRM-20080915,,CRM,CRM,Salesforce,Salesforce,2008-09-15,,fja_history,auto
+2023-12-31,spell-CSCO-19960102,,CSCO,CSCO,Cisco,Cisco,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CSGP-20220919,,CSGP,CSGP,CoStar Group,CoStar Group,2022-09-19,,fja_history,auto
+2023-12-31,spell-CSX-19960102,,CSX,CSX,CSX Corporation,CSX Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CTAS-20010301,,CTAS,CTAS,Cintas,Cintas,2001-03-01,,fja_history,auto
+2023-12-31,spell-CTLT-20200921,,CTLT,CTLT,Catalent,,2020-09-21,2024-12-23,fja_history,auto
+2023-12-31,spell-CTRA-20211004,,CTRA,CTRA,Coterra,Coterra,2021-10-04,,fja_history,auto
+2023-12-31,spell-CTSH-20061117,,CTSH,CTSH,Cognizant,Cognizant,2006-11-17,,fja_history,auto
+2023-12-31,spell-CTVA-20190603,,CTVA,CTVA,Corteva,Corteva,2019-06-03,,fja_history,auto
+2023-12-31,spell-CVS-19960102,,CVS,CVS,CVS Health,CVS Health,1996-01-02,,fja_history,auto
+2023-12-31,spell-CVX-19960102,,CVX,CVX,Chevron Corporation,Chevron Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-CZR-20210322,,CZR,CZR,Caesars Entertainment,,2021-03-22,2025-09-22,fja_history,auto
+2023-12-31,spell-D-19960102,,D,D,Dominion Energy,Dominion Energy,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DAL-20130911,,DAL,DAL,Delta Air Lines,Delta Air Lines,2013-09-11,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DD-20190603,,DD,DD,DuPont,DuPont,2019-06-03,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DE-19960102,,DE,DE,Deere & Company,Deere & Company,1996-01-02,,fja_history,auto
+2023-12-31,spell-DFS-20070702,,DFS,DFS,Discover Financial,,2007-07-02,2025-05-19,fja_history,auto
+2023-12-31,spell-DG-20121203,,DG,DG,Dollar General,Dollar General,2012-12-03,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DGX-20021212,,DGX,DGX,Quest Diagnostics,Quest Diagnostics,2002-12-12,,fja_history,auto
+2023-12-31,spell-DHI-20050705,,DHI,DHI,D. R. Horton,D. R. Horton,2005-07-05,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DHR-19981118,,DHR,DHR,Danaher Corporation,Danaher Corporation,1998-11-18,,fja_history,auto
+2023-12-31,spell-DIS-19960102,,DIS,DIS,Walt Disney Company (The),Walt Disney Company (The),1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DLR-20160518,,DLR,DLR,Digital Realty,Digital Realty,2016-05-18,,fja_history,auto
+2023-12-31,spell-DLTR-20111219,,DLTR,DLTR,Dollar Tree,Dollar Tree,2011-12-19,,fja_history,auto
+2023-12-31,spell-DOV-19960102,,DOV,DOV,Dover Corporation,Dover Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DOW-20190402,,DOW,DOW,Dow Inc.,Dow Inc.,2019-04-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DPZ-20200512,,DPZ,DPZ,Domino's,Domino's,2020-05-12,,fja_history,auto
+2023-12-31,spell-DRI-19960102,,DRI,DRI,Darden Restaurants,Darden Restaurants,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DTE-19960102,,DTE,DTE,DTE Energy,DTE Energy,1996-01-02,,fja_history,auto
+2023-12-31,spell-DUK-19960102,,DUK,DUK,Duke Energy,Duke Energy,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-DVA-20080731,,DVA,DVA,DaVita,DaVita,2008-07-31,,fja_history,auto
+2023-12-31,spell-DVN-20000830,,DVN,DVN,Devon Energy,Devon Energy,2000-08-30,,fja_history,auto
+2023-12-31,spell-DXCM-20200512,,DXCM,DXCM,Dexcom,Dexcom,2020-05-12,,fja_history,auto
+2023-12-31,spell-EA-20020722,,EA,EA,Electronic Arts,Electronic Arts,2002-07-22,,fja_history,auto
+2023-12-31,spell-EBAY-20020722,,EBAY,EBAY,eBay Inc.,eBay Inc.,2002-07-22,,fja_history,auto
+2023-12-31,spell-ECL-19960102,,ECL,ECL,Ecolab,Ecolab,1996-01-02,,fja_history,auto
+2023-12-31,spell-ED-19960102,,ED,ED,Consolidated Edison,Consolidated Edison,1996-01-02,,fja_history,auto
+2023-12-31,spell-EFX-19970619,,EFX,EFX,Equifax,Equifax,1997-06-19,,fja_history,auto
+2023-12-31,spell-EG-20230710,,EG,EG,Everest Group,Everest Group,2023-07-10,,fja_history,auto
+2023-12-31,spell-EIX-19960102,,EIX,EIX,Edison International,Edison International,1996-01-02,,fja_history,auto
+2023-12-31,spell-EL-20060105,,EL,EL,Estée Lauder Companies (The),Estée Lauder Companies (The),2006-01-05,,fja_history,auto
+2023-12-31,spell-ELV-20220628,,ELV,ELV,Elevance Health,Elevance Health,2022-06-28,,fja_history,auto
+2023-12-31,spell-EMN-19960102,,EMN,EMN,Eastman Chemical Co.,,1996-01-02,2025-11-04,fja_history,reused_symbol_requires_override
+2023-12-31,spell-EMR-19960102,,EMR,EMR,Emerson Electric,Emerson Electric,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ENPH-20210107,,ENPH,ENPH,Enphase Energy,,2021-01-07,2025-09-22,fja_history,auto
+2023-12-31,spell-EOG-20001102,,EOG,EOG,EOG Resources,EOG Resources,2000-11-02,,fja_history,auto
+2023-12-31,spell-EPAM-20211214,,EPAM,EPAM,EPAM Systems,EPAM Systems,2021-12-14,,fja_history,auto
+2023-12-31,spell-EQIX-20150323,,EQIX,EQIX,Equinix,Equinix,2015-03-23,,fja_history,auto
+2023-12-31,spell-EQR-20011203,,EQR,EQR,Equity Residential,Equity Residential,2001-12-03,,fja_history,auto
+2023-12-31,spell-EQT-20221003,,EQT,EQT,EQT Corporation,EQT Corporation,2022-10-03,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ES-20090317,,ES,ES,Eversource Energy,Eversource Energy,2009-03-17,,fja_history,auto
+2023-12-31,spell-ESS-20140402,,ESS,ESS,Essex Property Trust,Essex Property Trust,2014-04-02,,fja_history,auto
+2023-12-31,spell-ETN-19960102,,ETN,ETN,Eaton Corporation,Eaton Corporation,1996-01-02,,fja_history,auto
+2023-12-31,spell-ETR-19960102,,ETR,ETR,Entergy,Entergy,1996-01-02,,fja_history,auto
+2023-12-31,spell-ETSY-20200921,,ETSY,ETSY,Etsy,,2020-09-21,2024-09-23,fja_history,auto
+2023-12-31,spell-EVRG-20180605,,EVRG,EVRG,Evergy,Evergy,2018-06-05,,fja_history,auto
+2023-12-31,spell-EW-20110401,,EW,EW,Edwards Lifesciences,Edwards Lifesciences,2011-04-01,,fja_history,auto
+2023-12-31,spell-EXC-19960102,,EXC,EXC,Exelon,Exelon,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-EXPD-20071010,,EXPD,EXPD,Expeditors International,Expeditors International,2007-10-10,,fja_history,auto
+2023-12-31,spell-EXPE-20071002,,EXPE,EXPE,Expedia Group,Expedia Group,2007-10-02,,fja_history,auto
+2023-12-31,spell-EXR-20160119,,EXR,EXR,Extra Space Storage,Extra Space Storage,2016-01-19,,fja_history,auto
+2023-12-31,spell-F-19960102,,F,F,Ford Motor Company,Ford Motor Company,1996-01-02,,fja_history,auto
+2023-12-31,spell-FANG-20181203,,FANG,FANG,Diamondback Energy,Diamondback Energy,2018-12-03,,fja_history,auto
+2023-12-31,spell-FAST-20080915,,FAST,FAST,Fastenal,Fastenal,2008-09-15,,fja_history,auto
+2023-12-31,spell-FCX-19960102,,FCX,FCX,Freeport-McMoRan,Freeport-McMoRan,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-FDS-20211220,,FDS,FDS,FactSet,FactSet,2021-12-20,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-FDX-19960102,,FDX,FDX,FedEx,FedEx,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-FE-19960102,,FE,FE,FirstEnergy,FirstEnergy,1996-01-02,,fja_history,auto
+2023-12-31,spell-FFIV-20101220,,FFIV,FFIV,"F5, Inc.","F5, Inc.",2010-12-20,,fja_history,auto
+2023-12-31,spell-FI-20230607,,FI,FI,FI,,2023-06-07,2025-11-11,fja_history,auto
+2023-12-31,spell-FICO-20230320,,FICO,FICO,Fair Isaac,Fair Isaac,2023-03-20,,fja_history,auto
+2023-12-31,spell-FIS-20061110,,FIS,FIS,Fidelity National Information Services,Fidelity National Information Services,2006-11-10,,fja_history,auto
+2023-12-31,spell-FITB-19960308,,FITB,FITB,Fifth Third Bancorp,Fifth Third Bancorp,1996-03-08,,fja_history,auto
+2023-12-31,spell-FLT-20180620,,FLT,FLT,FleetCor Technologies,,2018-06-20,2024-03-25,fja_history,auto
+2023-12-31,spell-FMC-20090819,,FMC,FMC,FMC Corporation,,2009-08-19,2025-04-24,fja_history,reused_symbol_requires_override
+2023-12-31,spell-FOX-20150921,,FOX,FOX,Fox Corporation (Class B),Fox Corporation (Class B),2015-09-21,,fja_history,auto
+2023-12-31,spell-FOXA-20041220,,FOXA,FOXA,Fox Corporation (Class A),Fox Corporation (Class A),2004-12-20,,fja_history,auto
+2023-12-31,spell-FRT-20160201,,FRT,FRT,Federal Realty Investment Trust,Federal Realty Investment Trust,2016-02-01,,fja_history,auto
+2023-12-31,spell-FSLR-20221219,,FSLR,FSLR,First Solar,First Solar,2022-12-19,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-FTNT-20181011,,FTNT,FTNT,Fortinet,Fortinet,2018-10-11,,fja_history,auto
+2023-12-31,spell-FTV-20160705,,FTV,FTV,Fortive,Fortive,2016-07-05,,fja_history,auto
+2023-12-31,spell-GD-19960102,,GD,GD,General Dynamics,General Dynamics,1996-01-02,,fja_history,auto
+2023-12-31,spell-GE-19960102,,GE,GE,GE Aerospace,GE Aerospace,1996-01-02,,fja_history,auto
+2023-12-31,spell-GEHC-20230104,,GEHC,GEHC,GE HealthCare,GE HealthCare,2023-01-04,,fja_history,auto
+2023-12-31,spell-GEN-20221108,,GEN,GEN,Gen Digital,Gen Digital,2022-11-08,,fja_history,auto
+2023-12-31,spell-GILD-20040701,,GILD,GILD,Gilead Sciences,Gilead Sciences,2004-07-01,,fja_history,auto
+2023-12-31,spell-GIS-19960102,,GIS,GIS,General Mills,General Mills,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-GL-20190808,,GL,GL,Globe Life,Globe Life,2019-08-08,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-GLW-19960102,,GLW,GLW,Corning Inc.,Corning Inc.,1996-01-02,,fja_history,auto
+2023-12-31,spell-GM-20130607,,GM,GM,General Motors,General Motors,2013-06-07,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-GNRC-20210322,,GNRC,GNRC,Generac,Generac,2021-03-22,,fja_history,auto
+2023-12-31,spell-GOOG-20140403,,GOOG,GOOG,Alphabet Inc. (Class C),Alphabet Inc. (Class C),2014-04-03,,fja_history,auto
+2023-12-31,spell-GOOGL-20060403,,GOOGL,GOOGL,Alphabet Inc. (Class A),Alphabet Inc. (Class A),2006-04-03,,fja_history,auto
+2023-12-31,spell-GPC-19960102,,GPC,GPC,Genuine Parts Company,Genuine Parts Company,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-GPN-20160425,,GPN,GPN,Global Payments,Global Payments,2016-04-25,,fja_history,auto
+2023-12-31,spell-GRMN-20121212,,GRMN,GRMN,Garmin,Garmin,2012-12-12,,fja_history,auto
+2023-12-31,spell-GS-20020722,,GS,GS,Goldman Sachs,Goldman Sachs,2002-07-22,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-GWW-19960102,,GWW,GWW,W. W. Grainger,W. W. Grainger,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HAL-19960102,,HAL,HAL,Halliburton,Halliburton,1996-01-02,,fja_history,auto
+2023-12-31,spell-HAS-19960102,,HAS,HAS,Hasbro,Hasbro,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HBAN-19970806,,HBAN,HBAN,Huntington Bancshares,Huntington Bancshares,1997-08-06,,fja_history,auto
+2023-12-31,spell-HCA-20150127,,HCA,HCA,HCA Healthcare,HCA Healthcare,2015-01-27,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HD-19960102,,HD,HD,Home Depot (The),Home Depot (The),1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HES-19960102,,HES,HES,Hess Corporation,,1996-01-02,2025-07-23,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HIG-19960102,,HIG,HIG,Hartford (The),Hartford (The),1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HII-20180103,,HII,HII,Huntington Ingalls Industries,Huntington Ingalls Industries,2018-01-03,,fja_history,auto
+2023-12-31,spell-HLT-20170619,,HLT,HLT,Hilton Worldwide,Hilton Worldwide,2017-06-19,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HOLX-20160330,,HOLX,HOLX,Hologic,,2016-03-30,2026-04-09,fja_history,auto
+2023-12-31,spell-HON-19960102,,HON,HON,Honeywell,Honeywell,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HPE-20151102,,HPE,HPE,Hewlett Packard Enterprise,Hewlett Packard Enterprise,2015-11-02,,fja_history,auto
+2023-12-31,spell-HPQ-19960102,,HPQ,HPQ,HP Inc.,HP Inc.,1996-01-02,,fja_history,auto
+2023-12-31,spell-HRL-20090304,,HRL,HRL,Hormel Foods,Hormel Foods,2009-03-04,,fja_history,auto
+2023-12-31,spell-HSIC-20150318,,HSIC,HSIC,Henry Schein,Henry Schein,2015-03-18,,fja_history,auto
+2023-12-31,spell-HST-20070320,,HST,HST,Host Hotels & Resorts,Host Hotels & Resorts,2007-03-20,,fja_history,auto
+2023-12-31,spell-HSY-19960102,,HSY,HSY,Hershey Company (The),Hershey Company (The),1996-01-02,,fja_history,auto
+2023-12-31,spell-HUBB-20231018,,HUBB,HUBB,Hubbell Incorporated,Hubbell Incorporated,2023-10-18,,fja_history,auto
+2023-12-31,spell-HUM-19960102,,HUM,HUM,Humana,Humana,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-HWM-20200406,,HWM,HWM,Howmet Aerospace,Howmet Aerospace,2020-04-06,,fja_history,auto
+2023-12-31,spell-IBM-19960102,,IBM,IBM,IBM,IBM,1996-01-02,,fja_history,auto
+2023-12-31,spell-ICE-20070926,,ICE,ICE,Intercontinental Exchange,Intercontinental Exchange,2007-09-26,,fja_history,auto
+2023-12-31,spell-IDXX-20170105,,IDXX,IDXX,Idexx Laboratories,Idexx Laboratories,2017-01-05,,fja_history,auto
+2023-12-31,spell-IEX-20190809,,IEX,IEX,IDEX Corporation,IDEX Corporation,2019-08-09,,fja_history,auto
+2023-12-31,spell-IFF-19960102,,IFF,IFF,International Flavors & Fragrances,International Flavors & Fragrances,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ILMN-20151119,,ILMN,ILMN,"Illumina, Inc.",,2015-11-19,2024-06-24,fja_history,auto
+2023-12-31,spell-INCY-20170228,,INCY,INCY,Incyte,Incyte,2017-02-28,,fja_history,auto
+2023-12-31,spell-INTC-19960102,,INTC,INTC,Intel,Intel,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-INTU-20001211,,INTU,INTU,Intuit,Intuit,2000-12-11,,fja_history,auto
+2023-12-31,spell-INVH-20220919,,INVH,INVH,Invitation Homes,Invitation Homes,2022-09-19,,fja_history,auto
+2023-12-31,spell-IP-19960102,,IP,IP,International Paper,International Paper,1996-01-02,,fja_history,auto
+2023-12-31,spell-IPG-19960102,,IPG,IPG,Interpublic Group,,1996-01-02,2025-11-28,fja_history,reused_symbol_requires_override
+2023-12-31,spell-IQV-20170829,,IQV,IQV,IQVIA,IQVIA,2017-08-29,,fja_history,auto
+2023-12-31,spell-IR-20101117,,IR,IR,Ingersoll Rand,Ingersoll Rand,2010-11-17,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-IRM-20090106,,IRM,IRM,Iron Mountain,Iron Mountain,2009-01-06,,fja_history,auto
+2023-12-31,spell-ISRG-20080602,,ISRG,ISRG,Intuitive Surgical,Intuitive Surgical,2008-06-02,,fja_history,auto
+2023-12-31,spell-IT-20170405,,IT,IT,Gartner,Gartner,2017-04-05,,fja_history,auto
+2023-12-31,spell-ITW-19960102,,ITW,ITW,Illinois Tool Works,Illinois Tool Works,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-IVZ-20080821,,IVZ,IVZ,Invesco,Invesco,2008-08-21,,fja_history,auto
+2023-12-31,spell-J-20191210,,J,J,Jacobs Solutions,Jacobs Solutions,2019-12-10,,fja_history,auto
+2023-12-31,spell-JBHT-20150701,,JBHT,JBHT,J.B. Hunt,J.B. Hunt,2015-07-01,,fja_history,auto
+2023-12-31,spell-JBL-20231018,,JBL,JBL,Jabil,Jabil,2023-10-18,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-JCI-19960102,,JCI,JCI,Johnson Controls,Johnson Controls,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-JKHY-20181113,,JKHY,JKHY,Jack Henry & Associates,Jack Henry & Associates,2018-11-13,,fja_history,auto
+2023-12-31,spell-JNJ-19960102,,JNJ,JNJ,Johnson & Johnson,Johnson & Johnson,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-JNPR-20060602,,JNPR,JNPR,Juniper Networks,,2006-06-02,2025-07-09,fja_history,auto
+2023-12-31,spell-JPM-19960102,,JPM,JPM,JPMorgan Chase,JPMorgan Chase,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-K-19960102,,K,K,Kellanova,,1996-01-02,2025-12-11,fja_history,reused_symbol_requires_override
+2023-12-31,spell-KDP-20220621,,KDP,KDP,Keurig Dr Pepper,Keurig Dr Pepper,2022-06-21,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-KEY-19960102,,KEY,KEY,KeyCorp,KeyCorp,1996-01-02,,fja_history,auto
+2023-12-31,spell-KEYS-20181106,,KEYS,KEYS,Keysight Technologies,Keysight Technologies,2018-11-06,,fja_history,auto
+2023-12-31,spell-KHC-20150706,,KHC,KHC,Kraft Heinz,Kraft Heinz,2015-07-06,,fja_history,auto
+2023-12-31,spell-KIM-20060403,,KIM,KIM,Kimco Realty,Kimco Realty,2006-04-03,,fja_history,auto
+2023-12-31,spell-KLAC-19970915,,KLAC,KLAC,KLA Corporation,KLA Corporation,1997-09-15,,fja_history,auto
+2023-12-31,spell-KMB-19960102,,KMB,KMB,Kimberly-Clark,Kimberly-Clark,1996-01-02,,fja_history,auto
+2023-12-31,spell-KMI-20120525,,KMI,KMI,Kinder Morgan,Kinder Morgan,2012-05-25,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-KMX-20100628,,KMX,KMX,CarMax,,2010-06-28,2025-10-31,fja_history,auto
+2023-12-31,spell-KO-19960102,,KO,KO,Coca-Cola Company (The),Coca-Cola Company (The),1996-01-02,,fja_history,auto
+2023-12-31,spell-KR-19960102,,KR,KR,Kroger,Kroger,1996-01-02,,fja_history,auto
+2023-12-31,spell-KVUE-20230825,,KVUE,KVUE,Kenvue,Kenvue,2023-08-25,,fja_history,auto
+2023-12-31,spell-L-19960102,,L,L,Loews Corporation,Loews Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-LDOS-20190809,,LDOS,LDOS,Leidos,Leidos,2019-08-09,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-LEN-20051004,,LEN,LEN,Lennar,Lennar,2005-10-04,,fja_history,auto
+2023-12-31,spell-LH-20041101,,LH,LH,Labcorp,Labcorp,2004-11-01,,fja_history,auto
+2023-12-31,spell-LHX-20190601,,LHX,LHX,L3Harris,L3Harris,2019-06-01,,fja_history,auto
+2023-12-31,spell-LIN-20181106,,LIN,LIN,Linde plc,Linde plc,2018-11-06,,fja_history,auto
+2023-12-31,spell-LKQ-20160523,,LKQ,LKQ,LKQ Corporation,,2016-05-23,2025-12-22,fja_history,auto
+2023-12-31,spell-LLY-19960102,,LLY,LLY,Lilly (Eli),Lilly (Eli),1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-LMT-19960102,,LMT,LMT,Lockheed Martin,Lockheed Martin,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-LNT-20160701,,LNT,LNT,Alliant Energy,Alliant Energy,2016-07-01,,fja_history,auto
+2023-12-31,spell-LOW-19960102,,LOW,LOW,Lowe's,Lowe's,1996-01-02,,fja_history,auto
+2023-12-31,spell-LRCX-20120605,,LRCX,LRCX,Lam Research,Lam Research,2012-06-05,,fja_history,auto
+2023-12-31,spell-LULU-20231018,,LULU,LULU,Lululemon Athletica,Lululemon Athletica,2023-10-18,,fja_history,auto
+2023-12-31,spell-LUV-19960102,,LUV,LUV,Southwest Airlines,Southwest Airlines,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-LVS-20191003,,LVS,LVS,Las Vegas Sands,Las Vegas Sands,2019-10-03,,fja_history,auto
+2023-12-31,spell-LW-20181203,,LW,LW,Lamb Weston,,2018-12-03,2026-03-23,fja_history,auto
+2023-12-31,spell-LYB-20120905,,LYB,LYB,LyondellBasell,LyondellBasell,2012-09-05,,fja_history,auto
+2023-12-31,spell-LYV-20191223,,LYV,LYV,Live Nation Entertainment,Live Nation Entertainment,2019-12-23,,fja_history,auto
+2023-12-31,spell-MA-20080718,,MA,MA,Mastercard,Mastercard,2008-07-18,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MAA-20161202,,MAA,MAA,Mid-America Apartment Communities,Mid-America Apartment Communities,2016-12-02,,fja_history,auto
+2023-12-31,spell-MAR-19980521,,MAR,MAR,Marriott International,Marriott International,1998-05-21,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MAS-19960102,,MAS,MAS,Masco,Masco,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MCD-19960102,,MCD,MCD,McDonald's,McDonald's,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MCHP-20070907,,MCHP,MCHP,Microchip Technology,Microchip Technology,2007-09-07,,fja_history,auto
+2023-12-31,spell-MCK-19990113,,MCK,MCK,McKesson Corporation,McKesson Corporation,1999-01-13,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MCO-19960102,,MCO,MCO,Moody's Corporation,Moody's Corporation,1996-01-02,,fja_history,auto
+2023-12-31,spell-MDLZ-20070402,,MDLZ,MDLZ,Mondelez International,Mondelez International,2007-04-02,,fja_history,auto
+2023-12-31,spell-MDT-19960102,,MDT,MDT,Medtronic,Medtronic,1996-01-02,,fja_history,auto
+2023-12-31,spell-MET-20001211,,MET,MET,MetLife,MetLife,2000-12-11,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-META-20220609,,META,META,Meta Platforms,Meta Platforms,2022-06-09,,fja_history,auto
+2023-12-31,spell-MGM-20170726,,MGM,MGM,MGM Resorts,MGM Resorts,2017-07-26,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MHK-20131223,,MHK,MHK,Mohawk Industries,,2013-12-23,2025-12-22,fja_history,auto
+2023-12-31,spell-MKC-20030321,,MKC,MKC,McCormick & Company,McCormick & Company,2003-03-21,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MKTX-20190701,,MKTX,MKTX,MarketAxess,,2019-07-01,2025-09-22,fja_history,auto
+2023-12-31,spell-MLM-20140702,,MLM,MLM,Martin Marietta Materials,Martin Marietta Materials,2014-07-02,,fja_history,auto
+2023-12-31,spell-MMC-19960102,,MMC,MMC,MMC,,1996-01-02,2026-01-14,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MMM-19960102,,MMM,MMM,3M,3M,1996-01-02,,fja_history,auto
+2023-12-31,spell-MNST-20120629,,MNST,MNST,Monster Beverage,Monster Beverage,2012-06-29,,fja_history,auto
+2023-12-31,spell-MO-19960102,,MO,MO,Altria,Altria,1996-01-02,,fja_history,auto
+2023-12-31,spell-MOH-20220302,,MOH,MOH,Molina Healthcare,,2022-03-02,2026-03-23,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MOS-20110926,,MOS,MOS,Mosaic Company (The),Mosaic Company (The),2011-09-26,,fja_history,auto
+2023-12-31,spell-MPC-20110701,,MPC,MPC,Marathon Petroleum,Marathon Petroleum,2011-07-01,,fja_history,auto
+2023-12-31,spell-MPWR-20210212,,MPWR,MPWR,Monolithic Power Systems,Monolithic Power Systems,2021-02-12,,fja_history,auto
+2023-12-31,spell-MRK-19960102,,MRK,MRK,Merck & Co.,Merck & Co.,1996-01-02,,fja_history,auto
+2023-12-31,spell-MRNA-20210721,,MRNA,MRNA,Moderna,Moderna,2021-07-21,,fja_history,auto
+2023-12-31,spell-MRO-19960102,,MRO,MRO,Marathon Oil,,1996-01-02,2024-11-26,fja_history,auto
+2023-12-31,spell-MS-19960102,,MS,MS,Morgan Stanley,Morgan Stanley,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MSCI-20180404,,MSCI,MSCI,MSCI Inc.,MSCI Inc.,2018-04-04,,fja_history,auto
+2023-12-31,spell-MSFT-19960102,,MSFT,MSFT,Microsoft,Microsoft,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-MSI-19960102,,MSI,MSI,Motorola Solutions,Motorola Solutions,1996-01-02,,fja_history,auto
+2023-12-31,spell-MTB-20040227,,MTB,MTB,M&T Bank,M&T Bank,2004-02-27,,fja_history,auto
+2023-12-31,spell-MTCH-20210920,,MTCH,MTCH,Match Group,,2021-09-20,2026-03-23,fja_history,auto
+2023-12-31,spell-MTD-20160906,,MTD,MTD,Mettler Toledo,Mettler Toledo,2016-09-06,,fja_history,auto
+2023-12-31,spell-MU-19960102,,MU,MU,Micron Technology,Micron Technology,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-NCLH-20171013,,NCLH,NCLH,Norwegian Cruise Line Holdings,Norwegian Cruise Line Holdings,2017-10-13,,fja_history,auto
+2023-12-31,spell-NDAQ-20081022,,NDAQ,NDAQ,"Nasdaq, Inc.","Nasdaq, Inc.",2008-10-22,,fja_history,auto
+2023-12-31,spell-NDSN-20220215,,NDSN,NDSN,Nordson Corporation,Nordson Corporation,2022-02-15,,fja_history,auto
+2023-12-31,spell-NEE-19960102,,NEE,NEE,NextEra Energy,NextEra Energy,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-NEM-19960102,,NEM,NEM,Newmont,Newmont,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-NFLX-20101220,,NFLX,NFLX,Netflix,Netflix,2010-12-20,,fja_history,auto
+2023-12-31,spell-NI-20001102,,NI,NI,NiSource,NiSource,2000-11-02,,fja_history,auto
+2023-12-31,spell-NKE-19960102,,NKE,NKE,"Nike, Inc.","Nike, Inc.",1996-01-02,,fja_history,auto
+2023-12-31,spell-NOC-19960102,,NOC,NOC,Northrop Grumman,Northrop Grumman,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-NOW-20191121,,NOW,NOW,ServiceNow,ServiceNow,2019-11-21,,fja_history,auto
+2023-12-31,spell-NRG-20100129,,NRG,NRG,NRG Energy,NRG Energy,2010-01-29,,fja_history,auto
+2023-12-31,spell-NSC-19960102,,NSC,NSC,Norfolk Southern,Norfolk Southern,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-NTAP-19990625,,NTAP,NTAP,NetApp,NetApp,1999-06-25,,fja_history,auto
+2023-12-31,spell-NTRS-19980130,,NTRS,NTRS,Northern Trust,Northern Trust,1998-01-30,,fja_history,auto
+2023-12-31,spell-NUE-19960102,,NUE,NUE,Nucor,Nucor,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-NVDA-20011130,,NVDA,NVDA,Nvidia,Nvidia,2001-11-30,,fja_history,auto
+2023-12-31,spell-NVR-20190926,,NVR,NVR,"NVR, Inc.","NVR, Inc.",2019-09-26,,fja_history,auto
+2023-12-31,spell-NWS-20150921,,NWS,NWS,News Corp (Class B),News Corp (Class B),2015-09-21,,fja_history,auto
+2023-12-31,spell-NWSA-20130701,,NWSA,NWSA,News Corp (Class A),News Corp (Class A),2013-07-01,,fja_history,auto
+2023-12-31,spell-NXPI-20210322,,NXPI,NXPI,NXP Semiconductors,NXP Semiconductors,2021-03-22,,fja_history,auto
+2023-12-31,spell-O-20150407,,O,O,Realty Income,Realty Income,2015-04-07,,fja_history,auto
+2023-12-31,spell-ODFL-20191209,,ODFL,ODFL,Old Dominion,Old Dominion,2019-12-09,,fja_history,auto
+2023-12-31,spell-OKE-20100315,,OKE,OKE,Oneok,Oneok,2010-03-15,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-OMC-19971224,,OMC,OMC,Omnicom Group,Omnicom Group,1997-12-24,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ON-20220621,,ON,ON,ON Semiconductor,ON Semiconductor,2022-06-21,,fja_history,auto
+2023-12-31,spell-ORCL-19960102,,ORCL,ORCL,Oracle Corporation,Oracle Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ORLY-20090327,,ORLY,ORLY,O’Reilly Automotive,O’Reilly Automotive,2009-03-27,,fja_history,auto
+2023-12-31,spell-OTIS-20200403,,OTIS,OTIS,Otis Worldwide,Otis Worldwide,2020-04-03,,fja_history,auto
+2023-12-31,spell-OXY-19960102,,OXY,OXY,Occidental Petroleum,Occidental Petroleum,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-PANW-20230620,,PANW,PANW,Palo Alto Networks,Palo Alto Networks,2023-06-20,,fja_history,auto
+2023-12-31,spell-PARA-20220217,,PARA,PARA,PARA,,2022-02-17,2025-08-08,fja_history,auto
+2023-12-31,spell-PAYC-20200128,,PAYC,PAYC,Paycom,,2020-01-28,2026-03-23,fja_history,auto
+2023-12-31,spell-PAYX-19981001,,PAYX,PAYX,Paychex,Paychex,1998-10-01,,fja_history,auto
+2023-12-31,spell-PCAR-19960102,,PCAR,PCAR,Paccar,Paccar,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-PCG-20221003,,PCG,PCG,PG&E Corporation,PG&E Corporation,2022-10-03,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-PEAK-20191105,,PEAK,PEAK,PEAK,,2019-11-05,2024-03-04,fja_history,auto
+2023-12-31,spell-PEG-19960102,,PEG,PEG,Public Service Enterprise Group,Public Service Enterprise Group,1996-01-02,,fja_history,auto
+2023-12-31,spell-PEP-19960102,,PEP,PEP,PepsiCo,PepsiCo,1996-01-02,,fja_history,auto
+2023-12-31,spell-PFE-19960102,,PFE,PFE,Pfizer,Pfizer,1996-01-02,,fja_history,auto
+2023-12-31,spell-PFG-20020722,,PFG,PFG,Principal Financial Group,Principal Financial Group,2002-07-22,,fja_history,auto
+2023-12-31,spell-PG-19960102,,PG,PG,Procter & Gamble,Procter & Gamble,1996-01-02,,fja_history,auto
+2023-12-31,spell-PGR-19970804,,PGR,PGR,Progressive Corporation,Progressive Corporation,1997-08-04,,fja_history,auto
+2023-12-31,spell-PH-19960102,,PH,PH,Parker Hannifin,Parker Hannifin,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-PHM-19960102,,PHM,PHM,PulteGroup,PulteGroup,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-PKG-20170726,,PKG,PKG,Packaging Corporation of America,Packaging Corporation of America,2017-07-26,,fja_history,auto
+2023-12-31,spell-PLD-20030717,,PLD,PLD,Prologis,Prologis,2003-07-17,,fja_history,auto
+2023-12-31,spell-PM-20080331,,PM,PM,Philip Morris International,Philip Morris International,2008-03-31,,fja_history,auto
+2023-12-31,spell-PNC-19960102,,PNC,PNC,PNC Financial Services,PNC Financial Services,1996-01-02,,fja_history,auto
+2023-12-31,spell-PNR-20121001,,PNR,PNR,Pentair,Pentair,2012-10-01,,fja_history,auto
+2023-12-31,spell-PNW-19991004,,PNW,PNW,Pinnacle West Capital,Pinnacle West Capital,1999-10-04,,fja_history,auto
+2023-12-31,spell-PODD-20230315,,PODD,PODD,Insulet Corporation,Insulet Corporation,2023-03-15,,fja_history,auto
+2023-12-31,spell-POOL-20201007,,POOL,POOL,Pool Corporation,Pool Corporation,2020-10-07,,fja_history,auto
+2023-12-31,spell-PPG-19960102,,PPG,PPG,PPG Industries,PPG Industries,1996-01-02,,fja_history,auto
+2023-12-31,spell-PPL-19960102,,PPL,PPL,PPL Corporation,PPL Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-PRU-20020722,,PRU,PRU,Prudential Financial,Prudential Financial,2002-07-22,,fja_history,auto
+2023-12-31,spell-PSA-20050819,,PSA,PSA,Public Storage,Public Storage,2005-08-19,,fja_history,auto
+2023-12-31,spell-PSX-20120501,,PSX,PSX,Phillips 66,Phillips 66,2012-05-01,,fja_history,auto
+2023-12-31,spell-PTC-20210420,,PTC,PTC,PTC Inc.,PTC Inc.,2021-04-20,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-PWR-20090701,,PWR,PWR,Quanta Services,Quanta Services,2009-07-01,,fja_history,auto
+2023-12-31,spell-PXD-20080924,,PXD,PXD,Pioneer Natural Resources,,2008-09-24,2024-05-08,fja_history,auto
+2023-12-31,spell-PYPL-20150720,,PYPL,PYPL,PayPal,PayPal,2015-07-20,,fja_history,auto
+2023-12-31,spell-QCOM-19990722,,QCOM,QCOM,Qualcomm,Qualcomm,1999-07-22,,fja_history,auto
+2023-12-31,spell-QRVO-20150612,,QRVO,QRVO,Qorvo,,2015-06-12,2024-12-23,fja_history,auto
+2023-12-31,spell-RCL-20141205,,RCL,RCL,Royal Caribbean Group,Royal Caribbean Group,2014-12-05,,fja_history,auto
+2023-12-31,spell-REG-20170302,,REG,REG,Regency Centers,Regency Centers,2017-03-02,,fja_history,auto
+2023-12-31,spell-REGN-20130501,,REGN,REGN,Regeneron Pharmaceuticals,Regeneron Pharmaceuticals,2013-05-01,,fja_history,auto
+2023-12-31,spell-RF-19980828,,RF,RF,Regions Financial Corporation,Regions Financial Corporation,1998-08-28,,fja_history,auto
+2023-12-31,spell-RHI-20001205,,RHI,RHI,Robert Half,,2000-12-05,2024-06-24,fja_history,auto
+2023-12-31,spell-RJF-20170320,,RJF,RJF,Raymond James Financial,Raymond James Financial,2017-03-20,,fja_history,auto
+2023-12-31,spell-RL-20070202,,RL,RL,Ralph Lauren Corporation,Ralph Lauren Corporation,2007-02-02,,fja_history,auto
+2023-12-31,spell-RMD-20170726,,RMD,RMD,ResMed,ResMed,2017-07-26,,fja_history,auto
+2023-12-31,spell-ROK-19960102,,ROK,ROK,Rockwell Automation,Rockwell Automation,1996-01-02,,fja_history,auto
+2023-12-31,spell-ROL-20181001,,ROL,ROL,"Rollins, Inc.","Rollins, Inc.",2018-10-01,,fja_history,auto
+2023-12-31,spell-ROP-20091223,,ROP,ROP,Roper Technologies,Roper Technologies,2009-12-23,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-ROST-20091221,,ROST,ROST,Ross Stores,Ross Stores,2009-12-21,,fja_history,auto
+2023-12-31,spell-RSG-20081205,,RSG,RSG,Republic Services,Republic Services,2008-12-05,,fja_history,auto
+2023-12-31,spell-RTX-20200403,,RTX,RTX,RTX Corporation,RTX Corporation,2020-04-03,,fja_history,auto
+2023-12-31,spell-RVTY-20230516,,RVTY,RVTY,Revvity,Revvity,2023-05-16,,fja_history,auto
+2023-12-31,spell-SBAC-20170901,,SBAC,SBAC,SBA Communications,SBA Communications,2017-09-01,,fja_history,auto
+2023-12-31,spell-SBUX-20000608,,SBUX,SBUX,Starbucks,Starbucks,2000-06-08,,fja_history,auto
+2023-12-31,spell-SCHW-19970602,,SCHW,SCHW,Charles Schwab Corporation,Charles Schwab Corporation,1997-06-02,,fja_history,auto
+2023-12-31,spell-SHW-19960102,,SHW,SHW,Sherwin-Williams,Sherwin-Williams,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-SJM-20081106,,SJM,SJM,J.M. Smucker Company (The),J.M. Smucker Company (The),2008-11-06,,fja_history,auto
+2023-12-31,spell-SLB-19960102,,SLB,SLB,Schlumberger,Schlumberger,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-SNA-19960102,,SNA,SNA,Snap-on,Snap-on,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-SNPS-20170316,,SNPS,SNPS,Synopsys,Synopsys,2017-03-16,,fja_history,auto
+2023-12-31,spell-SO-19960102,,SO,SO,Southern Company,Southern Company,1996-01-02,,fja_history,auto
+2023-12-31,spell-SPG-20020626,,SPG,SPG,Simon Property Group,Simon Property Group,2002-06-26,,fja_history,auto
+2023-12-31,spell-SPGI-19960102,,SPGI,SPGI,S&P Global,S&P Global,1996-01-02,,fja_history,auto
+2023-12-31,spell-SRE-19980629,,SRE,SRE,Sempra,Sempra,1998-06-29,,fja_history,auto
+2023-12-31,spell-STE-20191223,,STE,STE,Steris,Steris,2019-12-23,,fja_history,auto
+2023-12-31,spell-STLD-20221222,,STLD,STLD,Steel Dynamics,Steel Dynamics,2022-12-22,,fja_history,auto
+2023-12-31,spell-STT-19970818,,STT,STT,State Street Corporation,State Street Corporation,1997-08-18,,fja_history,auto
+2023-12-31,spell-STX-20120702,,STX,STX,Seagate Technology,Seagate Technology,2012-07-02,,fja_history,auto
+2023-12-31,spell-STZ-20050705,,STZ,STZ,Constellation Brands,Constellation Brands,2005-07-05,,fja_history,auto
+2023-12-31,spell-SWK-19960102,,SWK,SWK,Stanley Black & Decker,Stanley Black & Decker,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-SWKS-20150312,,SWKS,SWKS,Skyworks Solutions,Skyworks Solutions,2015-03-12,,fja_history,auto
+2023-12-31,spell-SYF-20151118,,SYF,SYF,Synchrony Financial,Synchrony Financial,2015-11-18,,fja_history,auto
+2023-12-31,spell-SYK-20001212,,SYK,SYK,Stryker Corporation,Stryker Corporation,2000-12-12,,fja_history,auto
+2023-12-31,spell-SYY-19960102,,SYY,SYY,Sysco,Sysco,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-T-19960102,,T,T,AT&T,AT&T,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TAP-19960102,,TAP,TAP,Molson Coors Beverage Company,Molson Coors Beverage Company,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TDG-20160603,,TDG,TDG,TransDigm Group,TransDigm Group,2016-06-03,,fja_history,auto
+2023-12-31,spell-TDY-20200622,,TDY,TDY,Teledyne Technologies,Teledyne Technologies,2020-06-22,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TECH-20210830,,TECH,TECH,Bio-Techne,Bio-Techne,2021-08-30,,fja_history,auto
+2023-12-31,spell-TEL-20111017,,TEL,TEL,TE Connectivity,TE Connectivity,2011-10-17,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TER-20200921,,TER,TER,Teradyne,Teradyne,2020-09-21,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TFC-20191209,,TFC,TFC,Truist Financial,Truist Financial,2019-12-09,,fja_history,auto
+2023-12-31,spell-TFX-20190118,,TFX,TFX,Teleflex,,2019-01-18,2025-04-24,fja_history,auto
+2023-12-31,spell-TGT-19960102,,TGT,TGT,Target Corporation,Target Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TJX-19960102,,TJX,TJX,TJX Companies,TJX Companies,1996-01-02,,fja_history,auto
+2023-12-31,spell-TMO-19970102,,TMO,TMO,Thermo Fisher Scientific,Thermo Fisher Scientific,1997-01-02,,fja_history,auto
+2023-12-31,spell-TMUS-20190715,,TMUS,TMUS,T-Mobile US,T-Mobile US,2019-07-15,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TPR-20040901,,TPR,TPR,"Tapestry, Inc.","Tapestry, Inc.",2004-09-01,,fja_history,auto
+2023-12-31,spell-TRGP-20221012,,TRGP,TRGP,Targa Resources,Targa Resources,2022-10-12,,fja_history,auto
+2023-12-31,spell-TRMB-20210121,,TRMB,TRMB,Trimble Inc.,Trimble Inc.,2021-01-21,,fja_history,auto
+2023-12-31,spell-TROW-19991013,,TROW,TROW,T. Rowe Price,T. Rowe Price,1999-10-13,,fja_history,auto
+2023-12-31,spell-TRV-19960102,,TRV,TRV,Travelers Companies (The),Travelers Companies (The),1996-01-02,,fja_history,auto
+2023-12-31,spell-TSCO-20140124,,TSCO,TSCO,Tractor Supply,Tractor Supply,2014-01-24,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TSLA-20201221,,TSLA,TSLA,"Tesla, Inc.","Tesla, Inc.",2020-12-21,,fja_history,auto
+2023-12-31,spell-TSN-20050811,,TSN,TSN,Tyson Foods,Tyson Foods,2005-08-11,,fja_history,auto
+2023-12-31,spell-TT-20200303,,TT,TT,Trane Technologies,Trane Technologies,2020-03-03,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TTWO-20180319,,TTWO,TTWO,Take-Two Interactive,Take-Two Interactive,2018-03-19,,fja_history,auto
+2023-12-31,spell-TXN-19960102,,TXN,TXN,Texas Instruments,Texas Instruments,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TXT-19960102,,TXT,TXT,Textron,Textron,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-TYL-20200622,,TYL,TYL,Tyler Technologies,Tyler Technologies,2020-06-22,,fja_history,auto
+2023-12-31,spell-UAL-20150903,,UAL,UAL,United Airlines Holdings,United Airlines Holdings,2015-09-03,,fja_history,auto
+2023-12-31,spell-UBER-20231018,,UBER,UBER,Uber,Uber,2023-10-18,,fja_history,auto
+2023-12-31,spell-UDR-20160307,,UDR,UDR,"UDR, Inc.","UDR, Inc.",2016-03-07,,fja_history,auto
+2023-12-31,spell-UHS-20140922,,UHS,UHS,Universal Health Services,Universal Health Services,2014-09-22,,fja_history,auto
+2023-12-31,spell-ULTA-20160418,,ULTA,ULTA,Ulta Beauty,Ulta Beauty,2016-04-18,,fja_history,auto
+2023-12-31,spell-UNH-19960102,,UNH,UNH,UnitedHealth Group,UnitedHealth Group,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-UNP-19960102,,UNP,UNP,Union Pacific Corporation,Union Pacific Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-UPS-20020722,,UPS,UPS,United Parcel Service,United Parcel Service,2002-07-22,,fja_history,auto
+2023-12-31,spell-URI-20140922,,URI,URI,United Rentals,United Rentals,2014-09-22,,fja_history,auto
+2023-12-31,spell-USB-19960102,,USB,USB,U.S. Bancorp,U.S. Bancorp,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-V-20091221,,V,V,Visa Inc.,Visa Inc.,2009-12-21,,fja_history,auto
+2023-12-31,spell-VFC-19960102,,VFC,VFC,VF Corporation,,1996-01-02,2024-04-03,fja_history,auto
+2023-12-31,spell-VICI-20220608,,VICI,VICI,Vici Properties,Vici Properties,2022-06-08,,fja_history,auto
+2023-12-31,spell-VLO-20040429,,VLO,VLO,Valero Energy,Valero Energy,2004-04-29,,fja_history,auto
+2023-12-31,spell-VLTO-20231002,,VLTO,VLTO,Veralto,Veralto,2023-10-02,,fja_history,auto
+2023-12-31,spell-VMC-19990701,,VMC,VMC,Vulcan Materials Company,Vulcan Materials Company,1999-07-01,,fja_history,auto
+2023-12-31,spell-VRSK-20151008,,VRSK,VRSK,Verisk Analytics,Verisk Analytics,2015-10-08,,fja_history,auto
+2023-12-31,spell-VRSN-20060201,,VRSN,VRSN,Verisign,Verisign,2006-02-01,,fja_history,auto
+2023-12-31,spell-VRTX-20130923,,VRTX,VRTX,Vertex Pharmaceuticals,Vertex Pharmaceuticals,2013-09-23,,fja_history,auto
+2023-12-31,spell-VTR-20090304,,VTR,VTR,Ventas,Ventas,2009-03-04,,fja_history,auto
+2023-12-31,spell-VTRS-20201117,,VTRS,VTRS,Viatris,Viatris,2020-11-17,,fja_history,auto
+2023-12-31,spell-VZ-19960102,,VZ,VZ,Verizon,Verizon,1996-01-02,,fja_history,auto
+2023-12-31,spell-WAB-20190227,,WAB,WAB,Wabtec,Wabtec,2019-02-27,,fja_history,auto
+2023-12-31,spell-WAT-20020102,,WAT,WAT,Waters Corporation,Waters Corporation,2002-01-02,,fja_history,auto
+2023-12-31,spell-WBA-19960102,,WBA,WBA,Walgreens Boots Alliance,,1996-01-02,2025-08-28,fja_history,auto
+2023-12-31,spell-WBD-20220411,,WBD,WBD,Warner Bros. Discovery,Warner Bros. Discovery,2022-04-11,,fja_history,auto
+2023-12-31,spell-WDC-20090701,,WDC,WDC,Western Digital,Western Digital,2009-07-01,,fja_history,auto
+2023-12-31,spell-WEC-20081031,,WEC,WEC,WEC Energy Group,WEC Energy Group,2008-10-31,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-WELL-20090130,,WELL,WELL,Welltower,Welltower,2009-01-30,,fja_history,auto
+2023-12-31,spell-WFC-19960102,,WFC,WFC,Wells Fargo,Wells Fargo,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-WHR-19960102,,WHR,WHR,Whirlpool Corporation,,1996-01-02,2024-03-18,fja_history,reused_symbol_requires_override
+2023-12-31,spell-WM-19980717,,WM,WM,Waste Management,Waste Management,1998-07-17,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-WMB-19960102,,WMB,WMB,Williams Companies,Williams Companies,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-WMT-19960102,,WMT,WMT,Walmart,Walmart,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-WRB-20191205,,WRB,WRB,W. R. Berkley Corporation,W. R. Berkley Corporation,2019-12-05,,fja_history,auto
+2023-12-31,spell-WRK-20150702,,WRK,WRK,WRK,,2015-07-02,2024-07-08,fja_history,auto
+2023-12-31,spell-WST-20200522,,WST,WST,West Pharmaceutical Services,West Pharmaceutical Services,2020-05-22,,fja_history,auto
+2023-12-31,spell-WTW-20220110,,WTW,WTW,Willis Towers Watson,Willis Towers Watson,2022-01-10,,fja_history,auto
+2023-12-31,spell-WY-19960102,,WY,WY,Weyerhaeuser,Weyerhaeuser,1996-01-02,,fja_history,reused_symbol_requires_override
+2023-12-31,spell-WYNN-20081114,,WYNN,WYNN,Wynn Resorts,Wynn Resorts,2008-11-14,,fja_history,auto
+2023-12-31,spell-XEL-19960102,,XEL,XEL,Xcel Energy,Xcel Energy,1996-01-02,,fja_history,auto
+2023-12-31,spell-XOM-19960102,,XOM,XOM,ExxonMobil,ExxonMobil,1996-01-02,,fja_history,auto
+2023-12-31,spell-XRAY-20081114,,XRAY,XRAY,Dentsply Sirona,,2008-11-14,2024-04-03,fja_history,auto
+2023-12-31,spell-XYL-20111101,,XYL,XYL,Xylem Inc.,Xylem Inc.,2011-11-01,,fja_history,auto
+2023-12-31,spell-YUM-19971007,,YUM,YUM,Yum! Brands,Yum! Brands,1997-10-07,,fja_history,auto
+2023-12-31,spell-ZBH-20010807,,ZBH,ZBH,Zimmer Biomet,Zimmer Biomet,2001-08-07,,fja_history,auto
+2023-12-31,spell-ZBRA-20191223,,ZBRA,ZBRA,Zebra Technologies,Zebra Technologies,2019-12-23,,fja_history,auto
+2023-12-31,spell-ZION-20010625,,ZION,ZION,Zions Bancorporation,,2001-06-25,2024-03-18,fja_history,auto
+2023-12-31,spell-ZTS-20130624,,ZTS,ZTS,Zoetis,Zoetis,2013-06-24,,fja_history,auto
