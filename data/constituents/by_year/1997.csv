@@ -1,0 +1,489 @@
+as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_name,start_date,end_date,source,quote_status
+1997-12-31,spell-AAMRQ-19960102,,AAMRQ,AAMRQ,AAMRQ,,1996-01-02,2003-03-14,fja_history,auto
+1997-12-31,spell-AAPL-19960102,,AAPL,AAPL,Apple Inc.,Apple Inc.,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ABI-19960102,,ABI,ABI,ABI,,1996-01-02,2008-11-24,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ABS-19960102,,ABS,ABS,Albertsons,,1996-01-02,2006-06-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ABT-19960102,,ABT,ABT,Abbott Laboratories,Abbott Laboratories,1996-01-02,,fja_history,auto
+1997-12-31,spell-ABX-19960102,,ABX,ABX,ABX,,1996-01-02,2002-07-22,fja_history,auto
+1997-12-31,spell-ACKH-19960102,,ACKH,ACKH,ACKH,,1996-01-02,2000-11-17,fja_history,auto
+1997-12-31,spell-ACV-19960102,,ACV,ACV,ACV,,1996-01-02,2006-11-17,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ADBE-19970506,,ADBE,ADBE,Adobe Inc.,Adobe Inc.,1997-05-06,,fja_history,auto
+1997-12-31,spell-ADM-19960102,,ADM,ADM,Archer Daniels Midland,Archer Daniels Midland,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ADP-19960102,,ADP,ADP,Automatic Data Processing,Automatic Data Processing,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ADSK-19960102,,ADSK,ADSK,Autodesk,Autodesk,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AEE-19960102,,AEE,AEE,Ameren,Ameren,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AEP-19960102,,AEP,AEP,American Electric Power,American Electric Power,1996-01-02,,fja_history,auto
+1997-12-31,spell-AET-19960102,,AET,AET,Aetna,,1996-01-02,2018-11-29,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AGC-19960102,,AGC,AGC,AGC,,1996-01-02,2001-08-29,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AGN-19960102,,AGN,AGN,Allergan,,1996-01-02,2020-05-12,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AHM-19960102,,AHM,AHM,AHM,,1996-01-02,1998-10-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AIG-19960102,,AIG,AIG,American International Group,American International Group,1996-01-02,,fja_history,auto
+1997-12-31,spell-AIT-19960102,,AIT,AIT,AIT,,1996-01-02,1999-10-11,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AL-19960102,,AL,AL,AL,,1996-01-02,2002-07-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ALL-19960102,,ALL,ALL,Allstate,Allstate,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AM-19960102,,AM,AM,AM,,1996-01-02,2004-05-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AMAT-19960102,,AMAT,AMAT,Applied Materials,Applied Materials,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AMD-19960102,,AMD,AMD,Advanced Micro Devices,Advanced Micro Devices,1996-01-02,2013-09-23,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AMGN-19960102,,AMGN,AMGN,Amgen,Amgen,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AMP-19960102,,AMP,AMP,Ameriprise Financial,Ameriprise Financial,1996-01-02,1999-04-05,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AN-19960102,,AN,AN,Amoco,,1996-01-02,1999-01-04,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ANDW-19960102,,ANDW,ANDW,ANDW,,1996-01-02,2006-10-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ANV-19960102,,ANV,ANV,ANV,,1996-01-02,1999-04-12,fja_history,auto
+1997-12-31,spell-AON-19960423,,AON,AON,Aon plc,Aon plc,1996-04-23,,fja_history,auto
+1997-12-31,spell-APA-19970728,,APA,APA,APA Corporation,APA Corporation,1997-07-28,,fja_history,auto
+1997-12-31,spell-APC-19970728,,APC,APC,Anadarko Petroleum,,1997-07-28,2019-08-09,fja_history,reused_symbol_requires_override
+1997-12-31,spell-APD-19960102,,APD,APD,Air Products,Air Products,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AR-19960102,,AR,AR,AR,,1996-01-02,1999-10-27,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ARC-19960102,,ARC,ARC,ARC,,1996-01-02,2000-04-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ARNC-19960102,,ARNC,ARNC,Arconic,,1996-01-02,2020-04-06,fja_history,auto
+1997-12-31,spell-AS-19960102,,AS,AS,AS,,1996-01-02,1998-11-24,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ASC-19960102,,ASC,ASC,ASC,,1996-01-02,1999-06-24,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ASH-19960102,,ASH,ASH,ASH,,1996-01-02,2008-11-14,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AT-19960102,,AT,AT,AT,,1996-01-02,2007-11-19,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ATI-19960102,,ATI,ATI,Allegheny Technologies,,1996-01-02,2015-07-02,fja_history,auto
+1997-12-31,spell-AVP-19960102,,AVP,AVP,Avon Products,,1996-01-02,2015-03-23,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AVY-19960102,,AVY,AVY,Avery Dennison,Avery Dennison,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AXP-19960102,,AXP,AXP,American Express,American Express,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-AZA_A-19960102,,AZA.A,AZA.A,AZA.A,,1996-01-02,2001-06-25,fja_history,auto
+1997-12-31,spell-AZO-19970102,,AZO,AZO,AutoZone,AutoZone,1997-01-02,,fja_history,auto
+1997-12-31,spell-BA-19960102,,BA,BA,Boeing,Boeing,1996-01-02,,fja_history,auto
+1997-12-31,spell-BAC-19960102,,BAC,BAC,Bank of America,Bank of America,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BAX-19960102,,BAX,BAX,Baxter International,Baxter International,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BAY-19960212,,BAY,BAY,BAY,,1996-02-12,1998-08-31,fja_history,auto
+1997-12-31,spell-BBI-19960102,,BBI,BBI,BBI,,1996-01-02,1998-01-12,fja_history,auto
+1997-12-31,spell-BBT-19971204,,BBT,BBT,BBT,,1997-12-04,2019-12-09,fja_history,auto
+1997-12-31,spell-BC-19960102,,BC,BC,Brunswick,,1996-01-02,2008-06-23,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BCR-19960102,,BCR,BCR,CR Bard,,1996-01-02,2017-12-29,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BDK-19960102,,BDK,BDK,BDK,,1996-01-02,2010-03-15,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BDX-19960102,,BDX,BDX,Becton Dickinson,Becton Dickinson,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BEAM-19960102,,BEAM,BEAM,Suntory Global Spirits,,1996-01-02,2014-05-01,fja_history,auto
+1997-12-31,spell-BF_B-19960102,,BF.B,BF.B,Brown–Forman,Brown–Forman,1996-01-02,,fja_history,auto
+1997-12-31,spell-BFI-19960102,,BFI,BFI,BFI,,1996-01-02,1999-08-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BFO-19960102,,BFO,BFO,BFO,,1996-01-02,2000-10-03,fja_history,auto
+1997-12-31,spell-BGG-19960102,,BGG,BGG,BGG,,1996-01-02,2001-04-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BHGE-19960102,,BHGE,BHGE,BHGE,,1996-01-02,2019-10-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BHMSQ-19960102,,BHMSQ,BHMSQ,BHMSQ,,1996-01-02,2000-12-11,fja_history,auto
+1997-12-31,spell-BK-19960102,,BK,BK,BNY Mellon,BNY Mellon,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BKB-19960102,,BKB,BKB,BKB,,1996-01-02,1999-10-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BLL-19960102,,BLL,BLL,BLL,,1996-01-02,2022-05-10,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BLS-19960102,,BLS,BLS,BLS,,1996-01-02,2007-01-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BMET-19960102,,BMET,BMET,BMET,,1996-01-02,2007-07-12,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BMGCA-19960722,,BMGCA,BMGCA,BMGCA,,1996-07-22,1999-08-09,fja_history,auto
+1997-12-31,spell-BMS-19960102,,BMS,BMS,Bemis Company,,1996-01-02,2014-12-05,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BMY-19960102,,BMY,BMY,Bristol Myers Squibb,Bristol Myers Squibb,1996-01-02,,fja_history,auto
+1997-12-31,spell-BNI-19960102,,BNI,BNI,BNI,,1996-01-02,2010-02-16,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BNL-19960102,,BNL,BNL,BNL,,1996-01-02,1998-07-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BOL-19960102,,BOL,BOL,BOL,,1996-01-02,2007-10-29,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BR-19960102,,BR,BR,Broadridge Financial Solutions,Broadridge Financial Solutions,1996-01-02,2006-04-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BSX-19960102,,BSX,BSX,Boston Scientific,Boston Scientific,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BT-19960102,,BT,BT,BT,,1996-01-02,1999-06-04,fja_history,reused_symbol_requires_override
+1997-12-31,spell-BUD-19960102,,BUD,BUD,Anheuser Busch,,1996-01-02,2008-11-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-C-19960102,,C,C,Citigroup,Citigroup,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CA-19960102,,CA,CA,CA Technologies,,1996-01-02,2018-11-06,fja_history,auto
+1997-12-31,spell-CAG-19960102,,CAG,CAG,Conagra Brands,Conagra Brands,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CAH-19970527,,CAH,CAH,Cardinal Health,Cardinal Health,1997-05-27,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CAR-19960102,,CAR,CAR,CAR,,1996-01-02,2006-08-01,fja_history,auto
+1997-12-31,spell-CAT-19960102,,CAT,CAT,Caterpillar Inc.,Caterpillar Inc.,1996-01-02,,fja_history,auto
+1997-12-31,spell-CB-19960102,,CB,CB,Chubb Limited,Chubb Limited,1996-01-02,,fja_history,auto
+1997-12-31,spell-CBB-19960102,,CBB,CBB,CBB,,1996-01-02,1998-01-28,fja_history,auto
+1997-12-31,spell-CBE-19960102,,CBE,CBE,Cooper Industries,,1996-01-02,2009-09-09,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CBS-19960102,,CBS,CBS,CBS,,1996-01-02,2019-12-05,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CCI-19960102,,CCI,CCI,Crown Castle,Crown Castle,1996-01-02,1998-10-08,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CCK-19960102,,CCK,CCK,Crown Holdings,,1996-01-02,2000-12-11,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CCTYQ-19960102,,CCTYQ,CCTYQ,CCTYQ,,1996-01-02,2008-03-31,fja_history,auto
+1997-12-31,spell-CCU-19970902,,CCU,CCU,CCU,,1997-09-02,2008-07-31,fja_history,auto
+1997-12-31,spell-CEG-19960102,,CEG,CEG,Constellation Energy,Constellation Energy,1996-01-02,2012-03-13,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CEN-19960102,,CEN,CEN,CEN,,1996-01-02,2001-04-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CFC-19970618,,CFC,CFC,Countrywide Financial Corp,,1997-06-18,2008-07-01,fja_history,auto
+1997-12-31,spell-CFL-19960102,,CFL,CFL,CFL,,1996-01-02,1998-04-28,fja_history,auto
+1997-12-31,spell-CG-19960102,,CG,CG,CG,,1996-01-02,2000-11-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CGP-19960102,,CGP,CGP,CGP,,1996-01-02,2001-01-30,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CHA-19960102,,CHA,CHA,CHA,,1996-01-02,2000-06-19,fja_history,auto
+1997-12-31,spell-CHRS-19960102,,CHRS,CHRS,CHRS,,1996-01-02,1998-04-08,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CI-19960102,,CI,CI,Cigna,Cigna,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CIN-19960102,,CIN,CIN,CIN,,1996-01-02,2006-04-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CINF-19971218,,CINF,CINF,Cincinnati Financial,Cincinnati Financial,1997-12-18,,fja_history,auto
+1997-12-31,spell-CL-19960102,,CL,CL,Colgate-Palmolive,Colgate-Palmolive,1996-01-02,,fja_history,auto
+1997-12-31,spell-CLX-19960102,,CLX,CLX,Clorox,Clorox,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CMA-19960102,,CMA,CMA,Comerica,,1996-01-02,2024-06-24,fja_history,auto
+1997-12-31,spell-CMCSA-19960102,,CMCSA,CMCSA,Comcast,Comcast,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CMI-19960102,,CMI,CMI,Cummins,Cummins,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CNC-19970115,,CNC,CNC,Centene Corporation,Centene Corporation,1997-01-15,2002-07-25,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CNG-19960102,,CNG,CNG,CNG,,1996-01-02,2000-01-31,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CNP-19960102,,CNP,CNP,CenterPoint Energy,CenterPoint Energy,1996-01-02,,fja_history,auto
+1997-12-31,spell-COMS-19960102,,COMS,COMS,COMS,,1996-01-02,2000-07-28,fja_history,auto
+1997-12-31,spell-COP-19960102,,COP,COP,ConocoPhillips,ConocoPhillips,1996-01-02,,fja_history,auto
+1997-12-31,spell-COST-19960102,,COST,COST,Costco,Costco,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CPB-19960102,,CPB,CPB,Campbell's Company (The),Campbell's Company (The),1996-01-02,,fja_history,auto
+1997-12-31,spell-CPQ-19960102,,CPQ,CPQ,CPQ,,1996-01-02,2002-05-06,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CR-19960102,,CR,CR,CR,,1996-01-02,2004-12-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CSCO-19960102,,CSCO,CSCO,Cisco,Cisco,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CSE-19960122,,CSE,CSE,CSE,,1996-01-22,1999-11-15,fja_history,auto
+1997-12-31,spell-CSR-19960102,,CSR,CSR,CSR,,1996-01-02,2000-06-16,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CSX-19960102,,CSX,CSX,CSX Corporation,CSX Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CTB-19960102,,CTB,CTB,CTB,,1996-01-02,2006-07-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CTX-19960102,,CTX,CTX,Centex Corp.,,1996-01-02,2009-08-19,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CVS-19960102,,CVS,CVS,CVS Health,CVS Health,1996-01-02,,fja_history,auto
+1997-12-31,spell-CVX-19960102,,CVX,CVX,Chevron Corporation,Chevron Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-CYM-19960102,,CYM,CYM,CYM,,1996-01-02,1999-10-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-D-19960102,,D,D,Dominion Energy,Dominion Energy,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DALRQ-19960102,,DALRQ,DALRQ,DALRQ,,1996-01-02,2005-08-19,fja_history,auto
+1997-12-31,spell-DCNAQ-19960102,,DCNAQ,DCNAQ,DCNAQ,,1996-01-02,2006-03-03,fja_history,auto
+1997-12-31,spell-DD-19960102,,DD,DD,DuPont,DuPont,1996-01-02,2017-09-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DDS-19960102,,DDS,DDS,DDS,,1996-01-02,2008-10-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DE-19960102,,DE,DE,Deere & Company,Deere & Company,1996-01-02,,fja_history,auto
+1997-12-31,spell-DEC-19960102,,DEC,DEC,DEC,,1996-01-02,1998-06-12,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DELL-19960906,,DELL,DELL,Dell Technologies,Dell Technologies,1996-09-06,2013-10-29,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DGN-19960102,,DGN,DGN,DGN,,1996-01-02,1999-10-13,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DI-19960102,,DI,DI,DI,,1996-01-02,1998-09-30,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DIGI-19960102,,DIGI,DIGI,DIGI,,1996-01-02,1998-08-28,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DIS-19960102,,DIS,DIS,Walt Disney Company (The),Walt Disney Company (The),1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DJ-19960102,,DJ,DJ,Dow Jones,,1996-01-02,2007-12-14,fja_history,auto
+1997-12-31,spell-DLX-19960102,,DLX,DLX,DLX,,1996-01-02,2004-12-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DOV-19960102,,DOV,DOV,Dover Corporation,Dover Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DOW-19960102,,DOW,DOW,Dow Inc.,Dow Inc.,1996-01-02,2017-09-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DRI-19960102,,DRI,DRI,Darden Restaurants,Darden Restaurants,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DTE-19960102,,DTE,DTE,DTE Energy,DTE Energy,1996-01-02,,fja_history,auto
+1997-12-31,spell-DUK-19960102,,DUK,DUK,Duke Energy,Duke Energy,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-DXC-19960102,,DXC,DXC,DXC Technology,,1996-01-02,2015-12-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-EC-19960102,,EC,EC,EC,,1996-01-02,2006-06-06,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ECH-19960102,,ECH,ECH,ECH,,1996-01-02,1998-07-10,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ECL-19960102,,ECL,ECL,Ecolab,Ecolab,1996-01-02,,fja_history,auto
+1997-12-31,spell-ECO-19960102,,ECO,ECO,ECO,,1996-01-02,1998-01-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ED-19960102,,ED,ED,Consolidated Edison,Consolidated Edison,1996-01-02,,fja_history,auto
+1997-12-31,spell-EFU-19960102,,EFU,EFU,EFU,,1996-01-02,2000-11-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-EFX-19970619,,EFX,EFX,Equifax,Equifax,1997-06-19,,fja_history,auto
+1997-12-31,spell-EHC-19970108,,EHC,EHC,EHC,,1997-01-08,2003-03-21,fja_history,auto
+1997-12-31,spell-EIX-19960102,,EIX,EIX,Edison International,Edison International,1996-01-02,,fja_history,auto
+1997-12-31,spell-EKDKQ-19960102,,EKDKQ,EKDKQ,EKDKQ,,1996-01-02,2010-12-20,fja_history,auto
+1997-12-31,spell-EMC-19960328,,EMC,EMC,EMC Corporation,,1996-03-28,2016-09-07,fja_history,auto
+1997-12-31,spell-EMN-19960102,,EMN,EMN,Eastman Chemical Co.,,1996-01-02,2025-11-04,fja_history,reused_symbol_requires_override
+1997-12-31,spell-EMR-19960102,,EMR,EMR,Emerson Electric,Emerson Electric,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ENRNQ-19960102,,ENRNQ,ENRNQ,ENRNQ,,1996-01-02,2001-11-30,fja_history,auto
+1997-12-31,spell-ETN-19960102,,ETN,ETN,Eaton Corporation,Eaton Corporation,1996-01-02,,fja_history,auto
+1997-12-31,spell-ETR-19960102,,ETR,ETR,Entergy,Entergy,1996-01-02,,fja_history,auto
+1997-12-31,spell-ETS-19960102,,ETS,ETS,ETS,,1996-01-02,2001-08-06,fja_history,auto
+1997-12-31,spell-EXC-19960102,,EXC,EXC,Exelon,Exelon,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-F-19960102,,F,F,Ford Motor Company,Ford Motor Company,1996-01-02,,fja_history,auto
+1997-12-31,spell-FBF-19960102,,FBF,FBF,FBF,,1996-01-02,2004-04-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-FCN-19960102,,FCN,FCN,FCN,,1996-01-02,1998-10-02,fja_history,auto
+1997-12-31,spell-FCX-19960102,,FCX,FCX,Freeport-McMoRan,Freeport-McMoRan,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-FDC-19960102,,FDC,FDC,First Data,,1996-01-02,2007-09-25,fja_history,reused_symbol_requires_override
+1997-12-31,spell-FDX-19960102,,FDX,FDX,FedEx,FedEx,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-FE-19960102,,FE,FE,FirstEnergy,FirstEnergy,1996-01-02,,fja_history,auto
+1997-12-31,spell-FG-19960102,,FG,FG,FG,,1996-01-02,1998-04-27,fja_history,reused_symbol_requires_override
+1997-12-31,spell-FITB-19960308,,FITB,FITB,Fifth Third Bancorp,Fifth Third Bancorp,1996-03-08,,fja_history,auto
+1997-12-31,spell-FJ-19960102,,FJ,FJ,FJ,,1996-01-02,2000-11-24,fja_history,auto
+1997-12-31,spell-FL-19960102,,FL,FL,Foot Locker,,1996-01-02,1999-01-04,fja_history,reused_symbol_requires_override
+1997-12-31,spell-FLTWQ-19960102,,FLTWQ,FLTWQ,FLTWQ,,1996-01-02,2000-01-31,fja_history,auto
+1997-12-31,spell-FMC-19960102,,FMC,FMC,FMC Corporation,,1996-01-02,2002-01-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-FMCC-19960102,,FMCC,FMCC,FMCC,,1996-01-02,2008-09-11,fja_history,auto
+1997-12-31,spell-FNMA-19960102,,FNMA,FNMA,FNMA,,1996-01-02,2008-09-11,fja_history,auto
+1997-12-31,spell-FRO-19970102,,FRO,FRO,FRO,,1997-01-02,1999-09-29,fja_history,auto
+1997-12-31,spell-FTL_A-19960102,,FTL.A,FTL.A,FTL.A,,1996-01-02,1999-10-01,fja_history,auto
+1997-12-31,spell-FWLT-19960102,,FWLT,FWLT,FWLT,,1996-01-02,2000-01-31,fja_history,auto
+1997-12-31,spell-G-19960102,,G,G,G,,1996-01-02,2005-10-03,fja_history,auto
+1997-12-31,spell-GAPTQ-19960102,,GAPTQ,GAPTQ,GAPTQ,,1996-01-02,2000-08-30,fja_history,auto
+1997-12-31,spell-GAS-19960102,,GAS,GAS,Nicor Gas,,1996-01-02,2011-12-12,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GD-19960102,,GD,GD,General Dynamics,General Dynamics,1996-01-02,,fja_history,auto
+1997-12-31,spell-GDT-19961219,,GDT,GDT,GDT,,1996-12-19,2006-04-24,fja_history,auto
+1997-12-31,spell-GDW-19960102,,GDW,GDW,GDW,,1996-01-02,2006-10-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GE-19960102,,GE,GE,GE Aerospace,GE Aerospace,1996-01-02,,fja_history,auto
+1997-12-31,spell-GFS_A-19960102,,GFS.A,GFS.A,GFS.A,,1996-01-02,1998-07-16,fja_history,auto
+1997-12-31,spell-GIS-19960102,,GIS,GIS,General Mills,General Mills,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GLK-19960102,,GLK,GLK,Great Lakes Chemical,,1996-01-02,2005-07-05,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GLW-19960102,,GLW,GLW,Corning Inc.,Corning Inc.,1996-01-02,,fja_history,auto
+1997-12-31,spell-GNT-19960313,,GNT,GNT,GNT,,1996-03-13,1998-07-01,fja_history,auto
+1997-12-31,spell-GP-19960102,,GP,GP,GP,,1996-01-02,2005-12-20,fja_history,auto
+1997-12-31,spell-GPC-19960102,,GPC,GPC,Genuine Parts Company,Genuine Parts Company,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GPS-19960102,,GPS,GPS,Gap,,1996-01-02,2022-02-02,fja_history,auto
+1997-12-31,spell-GPU-19960102,,GPU,GPU,GPU,,1996-01-02,2001-11-07,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GR-19960102,,GR,GR,Goodrich Corporation,,1996-01-02,2012-07-27,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GRA-19960102,,GRA,GRA,WR Grace,,1996-01-02,2000-12-11,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GRN-19960102,,GRN,GRN,General Re,,1996-01-02,1998-12-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GSX-19960102,,GSX,GSX,GSX,,1996-01-02,1998-10-07,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GT-19960102,,GT,GT,The Goodyear Tire & Rubber Company,,1996-01-02,2019-02-27,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GTE-19960102,,GTE,GTE,GTE,,1996-01-02,2000-07-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-GWW-19960102,,GWW,GWW,W. W. Grainger,W. W. Grainger,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-H-19960102,,H,H,H,,1996-01-02,2001-06-29,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HAL-19960102,,HAL,HAL,Halliburton,Halliburton,1996-01-02,,fja_history,auto
+1997-12-31,spell-HAS-19960102,,HAS,HAS,Hasbro,Hasbro,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HBAN-19970806,,HBAN,HBAN,Huntington Bancshares,Huntington Bancshares,1997-08-06,,fja_history,auto
+1997-12-31,spell-HBOC-19971023,,HBOC,HBOC,HBOC,,1997-10-23,1999-01-13,fja_history,auto
+1997-12-31,spell-HCA-19960102,,HCA,HCA,HCA Healthcare,HCA Healthcare,1996-01-02,2006-11-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HD-19960102,,HD,HD,Home Depot (The),Home Depot (The),1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HES-19960102,,HES,HES,Hess Corporation,,1996-01-02,2025-07-23,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HET-19960102,,HET,HET,HET,,1996-01-02,2008-01-29,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HI-19960102,,HI,HI,HI,,1996-01-02,2003-03-31,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HIG-19960102,,HIG,HIG,Hartford (The),Hartford (The),1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HLT-19960102,,HLT,HLT,Hilton Worldwide,Hilton Worldwide,1996-01-02,2007-10-25,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HM-19960102,,HM,HM,HM,,1996-01-02,2001-12-17,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HNZ-19960102,,HNZ,HNZ,Heinz,,1996-01-02,2013-06-07,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HON-19960102,,HON,HON,Honeywell,Honeywell,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HP-19960102,,HP,HP,Helmerich & Payne,,1996-01-02,1999-12-31,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HPC-19960102,,HPC,HPC,HPC,,1996-01-02,2008-11-14,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HPH-19960102,,HPH,HPH,Harnischfeger Industries,,1996-01-02,1999-06-09,fja_history,auto
+1997-12-31,spell-HPQ-19960102,,HPQ,HPQ,HP Inc.,HP Inc.,1996-01-02,,fja_history,auto
+1997-12-31,spell-HRB-19960102,,HRB,HRB,H&R Block,,1996-01-02,2020-09-21,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HRS-19960102,,HRS,HRS,Harris Corporation,,1996-01-02,1999-11-08,fja_history,reused_symbol_requires_override
+1997-12-31,spell-HSH-19960102,,HSH,HSH,HSH,,1996-01-02,2012-06-29,fja_history,auto
+1997-12-31,spell-HSY-19960102,,HSY,HSY,Hershey Company (The),Hershey Company (The),1996-01-02,,fja_history,auto
+1997-12-31,spell-HUM-19960102,,HUM,HUM,Humana,Humana,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-IBM-19960102,,IBM,IBM,IBM,IBM,1996-01-02,,fja_history,auto
+1997-12-31,spell-IFF-19960102,,IFF,IFF,International Flavors & Fragrances,International Flavors & Fragrances,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-IKN-19960102,,IKN,IKN,IKN,,1996-01-02,2000-06-29,fja_history,auto
+1997-12-31,spell-INCLF-19960102,,INCLF,INCLF,INCLF,,1996-01-02,2002-07-22,fja_history,auto
+1997-12-31,spell-INTC-19960102,,INTC,INTC,Intel,Intel,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-IP-19960102,,IP,IP,International Paper,International Paper,1996-01-02,,fja_history,auto
+1997-12-31,spell-IPG-19960102,,IPG,IPG,Interpublic Group,,1996-01-02,2025-11-28,fja_history,reused_symbol_requires_override
+1997-12-31,spell-IR-19960102,,IR,IR,Ingersoll Rand,Ingersoll Rand,1996-01-02,2009-07-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ITT-19960102,,ITT,ITT,ITT,,1996-01-02,2011-11-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ITW-19960102,,ITW,ITW,Illinois Tool Works,Illinois Tool Works,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-JAVA-19960102,,JAVA,JAVA,JAVA,,1996-01-02,2010-01-27,fja_history,auto
+1997-12-31,spell-JCI-19960102,,JCI,JCI,Johnson Controls,Johnson Controls,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-JCP-19960102,,JCP,JCP,JCPenney,,1996-01-02,2013-12-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-JH-19960102,,JH,JH,JH,,1996-01-02,1998-04-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-JNJ-19960102,,JNJ,JNJ,Johnson & Johnson,Johnson & Johnson,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-JOS-19960102,,JOS,JOS,JOS,,1996-01-02,2000-05-10,fja_history,reused_symbol_requires_override
+1997-12-31,spell-JP-19960102,,JP,JP,JP,,1996-01-02,2006-04-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-JPM-19960102,,JPM,JPM,JPMorgan Chase,JPMorgan Chase,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-JWN-19960102,,JWN,JWN,Nordstrom,,1996-01-02,2020-06-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-K-19960102,,K,K,Kellanova,,1996-01-02,2025-12-11,fja_history,reused_symbol_requires_override
+1997-12-31,spell-KATE-19960102,,KATE,KATE,KATE,,1996-01-02,2008-12-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-KBH-19960102,,KBH,KBH,KB Home,,1996-01-02,2009-12-21,fja_history,reused_symbol_requires_override
+1997-12-31,spell-KEY-19960102,,KEY,KEY,KeyCorp,KeyCorp,1996-01-02,,fja_history,auto
+1997-12-31,spell-KLAC-19970915,,KLAC,KLAC,KLA Corporation,KLA Corporation,1997-09-15,,fja_history,auto
+1997-12-31,spell-KM-19960102,,KM,KM,KM,,1996-01-02,2002-01-17,fja_history,reused_symbol_requires_override
+1997-12-31,spell-KMB-19960102,,KMB,KMB,Kimberly-Clark,Kimberly-Clark,1996-01-02,,fja_history,auto
+1997-12-31,spell-KMG-19960102,,KMG,KMG,KMG,,1996-01-02,2006-08-11,fja_history,reused_symbol_requires_override
+1997-12-31,spell-KO-19960102,,KO,KO,Coca-Cola Company (The),Coca-Cola Company (The),1996-01-02,,fja_history,auto
+1997-12-31,spell-KR-19960102,,KR,KR,Kroger,Kroger,1996-01-02,,fja_history,auto
+1997-12-31,spell-KRB-19960102,,KRB,KRB,KRB,,1996-01-02,2006-01-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-KRI-19960102,,KRI,KRI,KRI,,1996-01-02,2006-06-28,fja_history,auto
+1997-12-31,spell-KWP-19960102,,KWP,KWP,KWP,,1996-01-02,1999-11-16,fja_history,auto
+1997-12-31,spell-L-19960102,,L,L,Loews Corporation,Loews Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-LB-19960102,,LB,LB,LB,,1996-01-02,2021-08-03,fja_history,auto
+1997-12-31,spell-LDG-19960102,,LDG,LDG,LDG,,1996-01-02,2001-07-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-LDW_B-19960102,,LDW.B,LDW.B,LDW.B,,1996-01-02,1999-12-08,fja_history,auto
+1997-12-31,spell-LLY-19960102,,LLY,LLY,Lilly (Eli),Lilly (Eli),1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-LMT-19960102,,LMT,LMT,Lockheed Martin,Lockheed Martin,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-LNC-19960102,,LNC,LNC,Lincoln National Corporation,,1996-01-02,2023-09-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-LOW-19960102,,LOW,LOW,Lowe's,Lowe's,1996-01-02,,fja_history,auto
+1997-12-31,spell-LPX-19960102,,LPX,LPX,LPX,,1996-01-02,2006-11-10,fja_history,reused_symbol_requires_override
+1997-12-31,spell-LSI-19960102,,LSI,LSI,LSI Corporation,,1996-01-02,2014-05-07,fja_history,auto
+1997-12-31,spell-LU-19961001,,LU,LU,LU,,1996-10-01,2006-12-01,fja_history,auto
+1997-12-31,spell-LUV-19960102,,LUV,LUV,Southwest Airlines,Southwest Airlines,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-M-19960102,,M,M,Macy's,,1996-01-02,2020-04-06,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MAS-19960102,,MAS,MAS,Masco,Masco,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MAT-19960102,,MAT,MAT,Mattel,,1996-01-02,2019-06-07,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MAY-19960102,,MAY,MAY,MAY,,1996-01-02,2005-08-29,fja_history,auto
+1997-12-31,spell-MBI-19961203,,MBI,MBI,MBIA,,1996-12-03,2009-12-21,fja_history,auto
+1997-12-31,spell-MCD-19960102,,MCD,MCD,McDonald's,McDonald's,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MCIC-19960102,,MCIC,MCIC,MCIC,,1996-01-02,1998-09-15,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MCO-19960102,,MCO,MCO,Moody's Corporation,Moody's Corporation,1996-01-02,,fja_history,auto
+1997-12-31,spell-MDP-19960102,,MDP,MDP,Meredith Corp,,1996-01-02,2011-01-04,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MDR-19960102,,MDR,MDR,MDR,,1996-01-02,2003-08-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MDT-19960102,,MDT,MDT,Medtronic,Medtronic,1996-01-02,,fja_history,auto
+1997-12-31,spell-MEA-19960102,,MEA,MEA,MEA,,1996-01-02,2002-01-30,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MEE-19960102,,MEE,MEE,Massey Energy,,1996-01-02,2000-12-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MEL-19960102,,MEL,MEL,MEL,,1996-01-02,2007-07-02,fja_history,auto
+1997-12-31,spell-MER-19960102,,MER,MER,MER,,1996-01-02,2009-01-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MII-19960102,,MII,MII,MII,,1996-01-02,1999-06-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MIL-19960102,,MIL,MIL,Millipore,,1996-01-02,2010-07-15,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MIR-19970807,,MIR,MIR,MIR,,1997-08-07,2000-06-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MKG-19960102,,MKG,MKG,MKG,,1996-01-02,2000-10-18,fja_history,auto
+1997-12-31,spell-MMC-19960102,,MMC,MMC,MMC,,1996-01-02,2026-01-14,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MMM-19960102,,MMM,MMM,3M,3M,1996-01-02,,fja_history,auto
+1997-12-31,spell-MNR-19960102,,MNR,MNR,MNR,,1996-01-02,1998-09-28,fja_history,auto
+1997-12-31,spell-MO-19960102,,MO,MO,Altria,Altria,1996-01-02,,fja_history,auto
+1997-12-31,spell-MOB-19960102,,MOB,MOB,MOB,,1996-01-02,1999-12-01,fja_history,auto
+1997-12-31,spell-MRK-19960102,,MRK,MRK,Merck & Co.,Merck & Co.,1996-01-02,,fja_history,auto
+1997-12-31,spell-MRO-19960102,,MRO,MRO,Marathon Oil,,1996-01-02,2024-11-26,fja_history,auto
+1997-12-31,spell-MS-19960102,,MS,MS,Morgan Stanley,Morgan Stanley,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MSFT-19960102,,MSFT,MSFT,Microsoft,Microsoft,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MSI-19960102,,MSI,MSI,Motorola Solutions,Motorola Solutions,1996-01-02,,fja_history,auto
+1997-12-31,spell-MST-19960102,,MST,MST,MST,,1996-01-02,1998-08-14,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MTG-19960719,,MTG,MTG,MTG,,1996-07-19,2008-10-31,fja_history,auto
+1997-12-31,spell-MTLQQ-19960102,,MTLQQ,MTLQQ,MTLQQ,,1996-01-02,2009-06-03,fja_history,auto
+1997-12-31,spell-MU-19960102,,MU,MU,Micron Technology,Micron Technology,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MWI-19960102,,MWI,MWI,MWI,,1996-01-02,1999-05-28,fja_history,auto
+1997-12-31,spell-MWV-19960102,,MWV,MWV,MWV,,1996-01-02,2015-07-02,fja_history,auto
+1997-12-31,spell-MYG-19960102,,MYG,MYG,MYG,,1996-01-02,2006-04-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-MZIAQ-19960102,,MZIAQ,MZIAQ,MZIAQ,,1996-01-02,2000-06-29,fja_history,auto
+1997-12-31,spell-NAV-19960102,,NAV,NAV,NAV,,1996-01-02,2006-12-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NC-19960102,,NC,NC,NC,,1996-01-02,2000-06-05,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NCC-19960102,,NCC,NCC,National City,,1996-01-02,2009-01-02,fja_history,auto
+1997-12-31,spell-NEE-19960102,,NEE,NEE,NextEra Energy,NextEra Energy,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NEM-19960102,,NEM,NEM,Newmont,Newmont,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NKE-19960102,,NKE,NKE,"Nike, Inc.","Nike, Inc.",1996-01-02,,fja_history,auto
+1997-12-31,spell-NLC-19960102,,NLC,NLC,NLC,,1996-01-02,1999-08-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NLV-19960401,,NLV,NLV,NLV,,1996-04-01,2000-01-06,fja_history,auto
+1997-12-31,spell-NMK-19960102,,NMK,NMK,NMK,,1996-01-02,2002-02-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NOC-19960102,,NOC,NOC,Northrop Grumman,Northrop Grumman,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NOVL-19960102,,NOVL,NOVL,Novell,,1996-01-02,2011-04-28,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NRTLQ-19960102,,NRTLQ,NRTLQ,NRTLQ,,1996-01-02,2002-07-22,fja_history,auto
+1997-12-31,spell-NSC-19960102,,NSC,NSC,Norfolk Southern,Norfolk Southern,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NSI-19960102,,NSI,NSI,NSI,,1996-01-02,2001-12-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NSM-19960102,,NSM,NSM,National Semiconductor,,1996-01-02,2011-09-26,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NUE-19960102,,NUE,NUE,Nucor,Nucor,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-NWL-19960102,,NWL,NWL,Newell Brands,,1996-01-02,2023-09-18,fja_history,auto
+1997-12-31,spell-NYT-19960102,,NYT,NYT,The New York Times Company,,1996-01-02,2010-12-20,fja_history,auto
+1997-12-31,spell-OAT-19960102,,OAT,OAT,OAT,,1996-01-02,2001-08-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-OI-19970804,,OI,OI,Owens-Illinois,,1997-08-04,2000-12-11,fja_history,reused_symbol_requires_override
+1997-12-31,spell-OKE-19960102,,OKE,OKE,Oneok,Oneok,1996-01-02,2001-08-30,fja_history,reused_symbol_requires_override
+1997-12-31,spell-OMC-19971224,,OMC,OMC,Omnicom Group,Omnicom Group,1997-12-24,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-OMX-19960102,,OMX,OMX,OfficeMax,,1996-01-02,2008-06-23,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ONE-19960102,,ONE,ONE,ONE,,1996-01-02,2004-07-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ORCL-19960102,,ORCL,ORCL,Oracle Corporation,Oracle Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ORX-19960102,,ORX,ORX,ORX,,1996-01-02,1999-03-01,fja_history,auto
+1997-12-31,spell-OWENQ-19960102,,OWENQ,OWENQ,OWENQ,,1996-01-02,2000-10-02,fja_history,auto
+1997-12-31,spell-OXY-19960102,,OXY,OXY,Occidental Petroleum,Occidental Petroleum,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PAS-19960102,,PAS,PAS,PAS,,1996-01-02,1998-01-30,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PBI-19960102,,PBI,PBI,Pitney Bowes,,1996-01-02,2017-03-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PBY-19960102,,PBY,PBY,PBY,,1996-01-02,2000-04-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PCAR-19960102,,PCAR,PCAR,Paccar,Paccar,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PCG-19960102,,PCG,PCG,PG&E Corporation,PG&E Corporation,1996-01-02,2019-01-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PCH-19960102,,PCH,PCH,PCH,,1996-01-02,2001-07-09,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PD-19960102,,PD,PD,PD,,1996-01-02,2007-03-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PDG-19960102,,PDG,PDG,PDG,,1996-01-02,2002-07-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PEG-19960102,,PEG,PEG,Public Service Enterprise Group,Public Service Enterprise Group,1996-01-02,,fja_history,auto
+1997-12-31,spell-PEP-19960102,,PEP,PEP,PepsiCo,PepsiCo,1996-01-02,,fja_history,auto
+1997-12-31,spell-PET-19960102,,PET,PET,PET,,1996-01-02,1998-06-29,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PFE-19960102,,PFE,PFE,Pfizer,Pfizer,1996-01-02,,fja_history,auto
+1997-12-31,spell-PG-19960102,,PG,PG,Procter & Gamble,Procter & Gamble,1996-01-02,,fja_history,auto
+1997-12-31,spell-PGL-19960102,,PGL,PGL,PGL,,1996-01-02,2007-02-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PGN-19960102,,PGN,PGN,Progress Energy,,1996-01-02,2012-07-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PGR-19970804,,PGR,PGR,Progressive Corporation,Progressive Corporation,1997-08-04,,fja_history,auto
+1997-12-31,spell-PH-19960102,,PH,PH,Parker Hannifin,Parker Hannifin,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PHA-19960102,,PHA,PHA,PHA,,1996-01-02,2003-04-16,fja_history,auto
+1997-12-31,spell-PHB-19960102,,PHB,PHB,PHB,,1996-01-02,1999-10-04,fja_history,auto
+1997-12-31,spell-PHM-19960102,,PHM,PHM,PulteGroup,PulteGroup,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PKI-19960102,,PKI,PKI,PKI,,1996-01-02,2023-05-16,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PLL-19960102,,PLL,PLL,Pall Corporation,,1996-01-02,2015-08-31,fja_history,auto
+1997-12-31,spell-PNC-19960102,,PNC,PNC,PNC Financial Services,PNC Financial Services,1996-01-02,,fja_history,auto
+1997-12-31,spell-PNU-19960102,,PNU,PNU,PNU,,1996-01-02,2000-04-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PPG-19960102,,PPG,PPG,PPG Industries,PPG Industries,1996-01-02,,fja_history,auto
+1997-12-31,spell-PPL-19960102,,PPL,PPL,PPL Corporation,PPL Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PPW-19960102,,PPW,PPW,PPW,,1996-01-02,1999-11-30,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PRD-19960102,,PRD,PRD,PRD,,1996-01-02,2000-12-12,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PTC-19970403,,PTC,PTC,PTC Inc.,PTC Inc.,1997-04-03,2007-01-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PVN-19960102,,PVN,PVN,PVN,,1996-01-02,2005-10-03,fja_history,auto
+1997-12-31,spell-PX-19960102,,PX,PX,PX,,1996-01-02,2018-10-31,fja_history,reused_symbol_requires_override
+1997-12-31,spell-PZE-19960102,,PZE,PZE,PZE,,1996-01-02,1998-12-31,fja_history,auto
+1997-12-31,spell-R-19960102,,R,R,Ryder System,,1996-01-02,2017-06-19,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RAD-19960102,,RAD,RAD,Rite Aid,,1996-01-02,2000-07-27,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RAL-19960102,,RAL,RAL,RAL,,1996-01-02,2001-12-13,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RBD-19960102,,RBD,RBD,RBD,,1996-01-02,1999-03-25,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RBK-19960102,,RBK,RBK,RBK,,1996-01-02,2006-02-01,fja_history,auto
+1997-12-31,spell-RDC-19960102,,RDC,RDC,Rowan Companies,,1996-01-02,2014-08-19,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RDS_A-19960102,,RDS.A,RDS.A,RDS.A,,1996-01-02,2002-07-22,fja_history,auto
+1997-12-31,spell-RLM-19960102,,RLM,RLM,RLM,,1996-01-02,2000-05-04,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RML-19960102,,RML,RML,RML,,1996-01-02,2000-12-12,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RNB-19960102,,RNB,RNB,RNB,,1996-01-02,2000-01-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ROH-19960102,,ROH,ROH,ROH,,1996-01-02,2009-04-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-ROK-19960102,,ROK,ROK,Rockwell Automation,Rockwell Automation,1996-01-02,,fja_history,auto
+1997-12-31,spell-RRD-19960102,,RRD,RRD,RR Donnelley,,1996-01-02,2012-12-12,fja_history,auto
+1997-12-31,spell-RSHCQ-19960102,,RSHCQ,RSHCQ,RSHCQ,,1996-01-02,2011-07-01,fja_history,auto
+1997-12-31,spell-RTN-19960102,,RTN,RTN,Raytheon Company,,1996-01-02,2020-04-06,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RX-19961104,,RX,RX,IMS Health,,1996-11-04,2010-02-26,fja_history,auto
+1997-12-31,spell-RYC-19960102,,RYC,RYC,RYC,,1996-01-02,1999-08-13,fja_history,reused_symbol_requires_override
+1997-12-31,spell-RYI-19960102,,RYI,RYI,RYI,,1996-01-02,1998-07-01,fja_history,auto
+1997-12-31,spell-S-19960102,,S,S,Sprint Nextel,,1996-01-02,2013-07-09,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SAF-19960102,,SAF,SAF,SAF,,1996-01-02,2008-09-23,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SAI-19970717,,SAI,SAI,SAIC,,1997-07-17,1999-01-04,fja_history,auto
+1997-12-31,spell-SCHW-19970602,,SCHW,SCHW,Charles Schwab Corporation,Charles Schwab Corporation,1997-06-02,,fja_history,auto
+1997-12-31,spell-SCI-19960102,,SCI,SCI,SCI,,1996-01-02,2000-03-16,fja_history,auto
+1997-12-31,spell-SEG-19960816,,SEG,SEG,SEG,,1996-08-16,2000-11-22,fja_history,auto
+1997-12-31,spell-SFA-19960102,,SFA,SFA,SFA,,1996-01-02,2006-02-27,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SGID-19960102,,SGID,SGID,SGID,,1996-01-02,2000-06-21,fja_history,auto
+1997-12-31,spell-SGP-19960102,,SGP,SGP,Schering-Plough,,1996-01-02,2009-11-04,fja_history,auto
+1997-12-31,spell-SHW-19960102,,SHW,SHW,Sherwin-Williams,Sherwin-Williams,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SIAL-19960102,,SIAL,SIAL,Sigma-Aldrich,,1996-01-02,2015-11-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SK-19960102,,SK,SK,SK,,1996-01-02,1998-04-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SLB-19960102,,SLB,SLB,Schlumberger,Schlumberger,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SMI-19960102,,SMI,SMI,SMI,,1996-01-02,2000-12-12,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SMS-19960102,,SMS,SMS,Shared Medical Systems,,1996-01-02,2000-06-08,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SNA-19960102,,SNA,SNA,Snap-on,Snap-on,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SNT-19960102,,SNT,SNT,SNT,,1996-01-02,1999-10-26,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SNV-19971201,,SNV,SNV,SNV,,1997-12-01,2008-01-02,fja_history,auto
+1997-12-31,spell-SO-19960102,,SO,SO,Southern Company,Southern Company,1996-01-02,,fja_history,auto
+1997-12-31,spell-SPGI-19960102,,SPGI,SPGI,S&P Global,S&P Global,1996-01-02,,fja_history,auto
+1997-12-31,spell-STI-19960102,,STI,STI,SunTrust Banks,,1996-01-02,2019-12-09,fja_history,reused_symbol_requires_override
+1997-12-31,spell-STJ-19960102,,STJ,STJ,St Jude Medical,,1996-01-02,2017-01-05,fja_history,auto
+1997-12-31,spell-STO-19960102,,STO,STO,STO,,1996-01-02,1998-11-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-STT-19970818,,STT,STT,State Street Corporation,State Street Corporation,1997-08-18,,fja_history,auto
+1997-12-31,spell-SUN-19960102,,SUN,SUN,SunAmerica,,1996-01-02,2012-10-05,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SVU-19960102,,SVU,SVU,Supervalu,,1996-01-02,2012-05-01,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SWK-19960102,,SWK,SWK,Stanley Black & Decker,Stanley Black & Decker,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-SYY-19960102,,SYY,SYY,Sysco,Sysco,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-T-19960102,,T,T,AT&T,AT&T,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TA-19960102,,TA,TA,TA,,1996-01-02,1999-07-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TAP-19960102,,TAP,TAP,Molson Coors Beverage Company,Molson Coors Beverage Company,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TCOMA-19960102,,TCOMA,TCOMA,TCOMA,,1996-01-02,1999-03-10,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TEK-19960102,,TEK,TEK,TEK,,1996-01-02,2007-11-16,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TEN-19960102,,TEN,TEN,TEN,,1996-01-02,1999-11-05,fja_history,auto
+1997-12-31,spell-TGNA-19960102,,TGNA,TGNA,Tegna,,1996-01-02,2017-06-02,fja_history,auto
+1997-12-31,spell-TGT-19960102,,TGT,TGT,Target Corporation,Target Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-THC-19960102,,THC,THC,Tenet Healthcare,,1996-01-02,2016-04-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TIN-19960102,,TIN,TIN,TIN,,1996-01-02,2007-12-31,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TJX-19960102,,TJX,TJX,TJX Companies,TJX Companies,1996-01-02,,fja_history,auto
+1997-12-31,spell-TKR-19960102,,TKR,TKR,TKR,,1996-01-02,2001-08-07,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TLAB-19960102,,TLAB,TLAB,Tellabs,,1996-01-02,2011-12-21,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TMC-19960102,,TMC,TMC,Times Mirror,,1996-01-02,2000-06-13,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TMC_A-19960102,,TMC.A,TMC.A,TMC.A,,1996-01-02,2000-06-13,fja_history,auto
+1997-12-31,spell-TMK-19960102,,TMK,TMK,TMK,,1996-01-02,2019-08-08,fja_history,auto
+1997-12-31,spell-TMO-19970102,,TMO,TMO,Thermo Fisher Scientific,Thermo Fisher Scientific,1997-01-02,,fja_history,auto
+1997-12-31,spell-TNB-19960102,,TNB,TNB,TNB,,1996-01-02,2004-08-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TOY-19960102,,TOY,TOY,TOY,,1996-01-02,2005-07-22,fja_history,auto
+1997-12-31,spell-TRB-19960102,,TRB,TRB,Tribune Media,,1996-01-02,2007-12-21,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TRV-19960102,,TRV,TRV,Travelers Companies (The),Travelers Companies (The),1996-01-02,,fja_history,auto
+1997-12-31,spell-TRW-19960102,,TRW,TRW,TRW,,1996-01-02,2002-12-12,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TUP-19960531,,TUP,TUP,TUP,,1996-05-31,2004-03-25,fja_history,auto
+1997-12-31,spell-TWX-19960102,,TWX,TWX,Time Warner,,1996-01-02,2018-06-15,fja_history,auto
+1997-12-31,spell-TX-19960102,,TX,TX,TX,,1996-01-02,2001-10-10,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TXN-19960102,,TXN,TXN,Texas Instruments,Texas Instruments,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TXT-19960102,,TXT,TXT,Textron,Textron,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-TXU-19960102,,TXU,TXU,TXU,,1996-01-02,2007-10-10,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UAWGQ-19960102,,UAWGQ,UAWGQ,UAWGQ,,1996-01-02,2002-05-15,fja_history,auto
+1997-12-31,spell-UCC-19960102,,UCC,UCC,UCC,,1996-01-02,1999-05-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UCL-19960102,,UCL,UCL,UCL,,1996-01-02,2005-08-11,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UCM-19960102,,UCM,UCM,UCM,,1996-01-02,2000-10-23,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UIS-19960102,,UIS,UIS,UIS,,1996-01-02,2008-11-11,fja_history,auto
+1997-12-31,spell-UK-19960102,,UK,UK,UK,,1996-01-02,2001-02-07,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UMG-19960102,,UMG,UMG,UMG,,1996-01-02,2000-06-15,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UN-19960102,,UN,UN,UN,,1996-01-02,2002-07-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UNH-19960102,,UNH,UNH,UnitedHealth Group,UnitedHealth Group,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UNM-19960102,,UNM,UNM,Unum,,1996-01-02,2021-09-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UNP-19960102,,UNP,UNP,Union Pacific Corporation,Union Pacific Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UPR-19961016,,UPR,UPR,UPR,,1996-10-16,2000-07-17,fja_history,auto
+1997-12-31,spell-USB-19960102,,USB,USB,U.S. Bancorp,U.S. Bancorp,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-USS-19960102,,USS,USS,USS,,1996-01-02,1998-10-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UST-19960102,,UST,UST,UST,,1996-01-02,2009-01-06,fja_history,reused_symbol_requires_override
+1997-12-31,spell-USW-19960102,,USW,USW,USW,,1996-01-02,2000-07-03,fja_history,reused_symbol_requires_override
+1997-12-31,spell-UTX-19960102,,UTX,UTX,UTX,,1996-01-02,2020-04-03,fja_history,auto
+1997-12-31,spell-VFC-19960102,,VFC,VFC,VF Corporation,,1996-01-02,2024-04-03,fja_history,auto
+1997-12-31,spell-VO-19960102,,VO,VO,VO,,1996-01-02,2000-12-11,fja_history,auto
+1997-12-31,spell-VZ-19960102,,VZ,VZ,Verizon,Verizon,1996-01-02,,fja_history,auto
+1997-12-31,spell-WAI-19960102,,WAI,WAI,WAI,,1996-01-02,1998-08-11,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WAMUQ-19970702,,WAMUQ,WAMUQ,WAMUQ,,1997-07-02,2008-09-30,fja_history,auto
+1997-12-31,spell-WB-19960102,,WB,WB,Wachovia Bank,,1996-01-02,2009-01-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WBA-19960102,,WBA,WBA,Walgreens Boots Alliance,,1996-01-02,2025-08-28,fja_history,auto
+1997-12-31,spell-WCOEQ-19960401,,WCOEQ,WCOEQ,WCOEQ,,1996-04-01,2002-05-15,fja_history,auto
+1997-12-31,spell-WEN-19960102,,WEN,WEN,WEN,,1996-01-02,2008-09-30,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WFC-19960102,,WFC,WFC,Wells Fargo,Wells Fargo,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WHR-19960102,,WHR,WHR,Whirlpool Corporation,,1996-01-02,2024-03-18,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WLA-19960102,,WLA,WLA,WLA,,1996-01-02,2000-06-20,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WLL-19960102,,WLL,WLL,WLL,,1996-01-02,2002-02-11,fja_history,auto
+1997-12-31,spell-WMB-19960102,,WMB,WMB,Williams Companies,Williams Companies,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WMT-19960102,,WMT,WMT,Walmart,Walmart,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WMX-19960102,,WMX,WMX,WMX,,1996-01-02,1998-07-17,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WNDXQ-19960102,,WNDXQ,WNDXQ,WNDXQ,,1996-01-02,2004-12-03,fja_history,auto
+1997-12-31,spell-WOR-19960102,,WOR,WOR,WOR,,1996-01-02,2004-12-20,fja_history,auto
+1997-12-31,spell-WWY-19960102,,WWY,WWY,WWY,,1996-01-02,2008-10-07,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WY-19960102,,WY,WY,Weyerhaeuser,Weyerhaeuser,1996-01-02,,fja_history,reused_symbol_requires_override
+1997-12-31,spell-WYE-19960102,,WYE,WYE,WYE,,1996-01-02,2009-10-16,fja_history,auto
+1997-12-31,spell-X-19960102,,X,X,United States Steel,,1996-01-02,2014-07-02,fja_history,reused_symbol_requires_override
+1997-12-31,spell-XEL-19960102,,XEL,XEL,Xcel Energy,Xcel Energy,1996-01-02,,fja_history,auto
+1997-12-31,spell-XOM-19960102,,XOM,XOM,ExxonMobil,ExxonMobil,1996-01-02,,fja_history,auto
+1997-12-31,spell-XRX-19960102,,XRX,XRX,Xerox,,1996-01-02,2021-03-22,fja_history,reused_symbol_requires_override
+1997-12-31,spell-YUM-19971007,,YUM,YUM,Yum! Brands,Yum! Brands,1997-10-07,,fja_history,auto
