@@ -16,6 +16,9 @@ This repository builds a point-in-time S&P 500 dataset with two goals:
 - `data/quotes/by_year/YYYY.csv.gz`
   - Daily quote rows partitioned by year.
   - Includes `date`, `member_id`, `symbol`, `quote_symbol`, `close`, `adj_close`, and `volume`.
+- `data/quotes/preview/YYYY.csv`
+  - Browser-friendly previews of the yearly quote archives.
+  - Each file contains the first 200 sorted rows from the matching `data/quotes/by_year/YYYY.csv.gz` archive.
 - `data/quotes/quote_plan.csv`
   - Shows which membership spells can be downloaded automatically and which need manual help.
 - `data/quotes/fetch_failures.csv`
@@ -43,6 +46,15 @@ Quotes are more limited than constituents because free quote providers are ticke
 - Automatically downloaded quotes are reliable for unambiguous symbols.
 - Reused symbols, multi-symbol historical ticker strings, and some delisted/bankrupt names are marked in `quote_plan.csv` instead of being assigned a likely-wrong history.
 - Manual overrides can be added in `config/quote_overrides.csv` for cases where a better quote identifier is known.
+
+## Browsing On GitHub
+
+The full quote archives live in `data/quotes/by_year/YYYY.csv.gz` and are intentionally gzip-compressed to keep the repository size manageable.
+
+GitHub does not render those compressed CSVs inline, so use these instead when browsing in the web UI:
+
+- `data/quotes/preview/YYYY.csv` for a browser-friendly sample of a given year
+- the file download button or raw file URL when you need the full `YYYY.csv.gz` archive
 
 ## Local Usage
 
