@@ -21,6 +21,7 @@ CONSTITUENTS_DIR = DATA_DIR / "constituents"
 CONSTITUENTS_YEAR_DIR = CONSTITUENTS_DIR / "by_year"
 QUOTES_DIR = DATA_DIR / "quotes"
 QUOTES_YEAR_DIR = QUOTES_DIR / "by_year"
+QUOTES_PREVIEW_DIR = QUOTES_DIR / "preview"
 CONFIG_DIR = ROOT / "config"
 
 WRDS_URL = "https://wrds-www.wharton.upenn.edu/classroom/sp500-introduction/over-time/"
@@ -29,6 +30,7 @@ FJA_INTERVALS_URL = "https://raw.githubusercontent.com/fja05680/sp500/master/sp5
 FJA_START_DATE = pd.Timestamp("1996-01-02")
 INDEX_START_DATE = pd.Timestamp("1957-03-01")
 HTTP_HEADERS = {"User-Agent": "sp500-dataset-builder/1.0"}
+QUOTE_PREVIEW_ROW_COUNT = 200
 
 
 def parse_args() -> argparse.Namespace:
@@ -60,6 +62,7 @@ def ensure_dirs() -> None:
         CONSTITUENTS_YEAR_DIR,
         QUOTES_DIR,
         QUOTES_YEAR_DIR,
+        QUOTES_PREVIEW_DIR,
         CONFIG_DIR,
     ):
         path.mkdir(parents=True, exist_ok=True)
@@ -571,6 +574,31 @@ def write_quote_rows(year: int, rows: pd.DataFrame) -> None:
         rows.to_csv(handle, index=False, header=header)
 
 
+def write_quote_previews(mode: str) -> None:
+    if mode == "full":
+        for existing_file in QUOTES_PREVIEW_DIR.glob("*.csv"):
+            existing_file.unlink()
+        target_paths = sorted(QUOTES_YEAR_DIR.glob("*.csv.gz"))
+    else:
+        current_year = utc_now_naive().year
+        current_year_path = QUOTES_YEAR_DIR / f"{current_year}.csv.gz"
+        current_preview_path = QUOTES_PREVIEW_DIR / f"{current_year}.csv"
+        if current_year_path.exists():
+            target_paths = [current_year_path]
+        else:
+            if current_preview_path.exists():
+                current_preview_path.unlink()
+            target_paths = []
+
+    for quote_path in target_paths:
+        with gzip.open(quote_path, mode="rt", newline="") as handle:
+            preview = pd.read_csv(handle)
+
+        preview = preview.sort_values(["date", "symbol", "member_id"]).head(QUOTE_PREVIEW_ROW_COUNT)
+        preview_path = QUOTES_PREVIEW_DIR / f"{quote_path.name.removesuffix('.csv.gz')}.csv"
+        preview.to_csv(preview_path, index=False)
+
+
 def chunked(values: list[str], size: int) -> Iterable[list[str]]:
     for index in range(0, len(values), size):
         yield values[index : index + size]
@@ -741,6 +769,7 @@ def main() -> None:
     write_quote_plan(quote_plan)
     write_membership_outputs(intervals, quote_plan)
     failures = build_quotes(intervals, quote_plan, mode=args.mode, quote_chunk_size=args.quote_chunk_size)
+    write_quote_previews(mode=args.mode)
     validate_outputs(intervals)
 
     logging.info("Wrote %s membership spells", len(intervals))
