@@ -16,8 +16,6 @@ This repository builds a point-in-time S&P 500 dataset with two goals:
 - `data/quotes/by_year/YYYY.csv`
   - Daily quote rows partitioned by year in a browser-friendly CSV.
   - Includes `date`, `member_id`, `symbol`, `quote_symbol`, `close`, `adj_close`, and `volume`.
-- `data/quotes/by_year/YYYY.csv.gz`
-  - Gzip-compressed copy of the same yearly quote dataset for smaller downloads.
 - `data/quotes/preview/YYYY.csv`
   - Lightweight previews of the yearly quote datasets.
   - Each file contains the first 200 sorted rows from the matching `data/quotes/by_year/YYYY.csv` file.
@@ -51,10 +49,9 @@ Quotes are more limited than constituents because free quote providers are ticke
 
 ## Browsing On GitHub
 
-Each yearly quote dataset now ships in two forms:
+Each yearly quote dataset ships as:
 
 - `data/quotes/by_year/YYYY.csv` for the full browser-friendly table view
-- `data/quotes/by_year/YYYY.csv.gz` for a smaller compressed download
 
 If you only need a quick spot check, `data/quotes/preview/YYYY.csv` still contains the first 200 sorted rows for that year.
 
