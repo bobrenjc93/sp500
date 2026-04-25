@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import argparse
 import csv
-import gzip
 import io
 import logging
 import re
@@ -562,21 +561,20 @@ def write_membership_outputs(intervals: pd.DataFrame, quote_plan: pd.DataFrame) 
 
 def empty_quote_year_files(target_years: Iterable[int]) -> None:
     for year in target_years:
-        for suffix in (".csv", ".csv.gz"):
-            path = QUOTES_YEAR_DIR / f"{year}{suffix}"
-            if path.exists():
-                path.unlink()
+        csv_path = QUOTES_YEAR_DIR / f"{year}.csv"
+        if csv_path.exists():
+            csv_path.unlink()
+
+        # Remove stale gzip copies from older runs now that yearly quotes only ship as CSV.
+        gzip_path = QUOTES_YEAR_DIR / f"{year}.csv.gz"
+        if gzip_path.exists():
+            gzip_path.unlink()
 
 
 def write_quote_rows(year: int, rows: pd.DataFrame) -> None:
     csv_path = QUOTES_YEAR_DIR / f"{year}.csv"
     csv_header = not csv_path.exists()
     rows.to_csv(csv_path, mode="a", index=False, header=csv_header)
-
-    gzip_path = QUOTES_YEAR_DIR / f"{year}.csv.gz"
-    gzip_header = not gzip_path.exists()
-    with gzip.open(gzip_path, mode="at", newline="") as handle:
-        rows.to_csv(handle, index=False, header=gzip_header)
 
 
 def write_quote_previews(mode: str) -> None:
