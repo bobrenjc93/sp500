@@ -562,26 +562,31 @@ def write_membership_outputs(intervals: pd.DataFrame, quote_plan: pd.DataFrame) 
 
 def empty_quote_year_files(target_years: Iterable[int]) -> None:
     for year in target_years:
-        path = QUOTES_YEAR_DIR / f"{year}.csv.gz"
-        if path.exists():
-            path.unlink()
+        for suffix in (".csv", ".csv.gz"):
+            path = QUOTES_YEAR_DIR / f"{year}{suffix}"
+            if path.exists():
+                path.unlink()
 
 
 def write_quote_rows(year: int, rows: pd.DataFrame) -> None:
-    path = QUOTES_YEAR_DIR / f"{year}.csv.gz"
-    header = not path.exists()
-    with gzip.open(path, mode="at", newline="") as handle:
-        rows.to_csv(handle, index=False, header=header)
+    csv_path = QUOTES_YEAR_DIR / f"{year}.csv"
+    csv_header = not csv_path.exists()
+    rows.to_csv(csv_path, mode="a", index=False, header=csv_header)
+
+    gzip_path = QUOTES_YEAR_DIR / f"{year}.csv.gz"
+    gzip_header = not gzip_path.exists()
+    with gzip.open(gzip_path, mode="at", newline="") as handle:
+        rows.to_csv(handle, index=False, header=gzip_header)
 
 
 def write_quote_previews(mode: str) -> None:
     if mode == "full":
         for existing_file in QUOTES_PREVIEW_DIR.glob("*.csv"):
             existing_file.unlink()
-        target_paths = sorted(QUOTES_YEAR_DIR.glob("*.csv.gz"))
+        target_paths = sorted(QUOTES_YEAR_DIR.glob("*.csv"))
     else:
         current_year = utc_now_naive().year
-        current_year_path = QUOTES_YEAR_DIR / f"{current_year}.csv.gz"
+        current_year_path = QUOTES_YEAR_DIR / f"{current_year}.csv"
         current_preview_path = QUOTES_PREVIEW_DIR / f"{current_year}.csv"
         if current_year_path.exists():
             target_paths = [current_year_path]
@@ -591,11 +596,9 @@ def write_quote_previews(mode: str) -> None:
             target_paths = []
 
     for quote_path in target_paths:
-        with gzip.open(quote_path, mode="rt", newline="") as handle:
-            preview = pd.read_csv(handle)
-
+        preview = pd.read_csv(quote_path)
         preview = preview.sort_values(["date", "symbol", "member_id"]).head(QUOTE_PREVIEW_ROW_COUNT)
-        preview_path = QUOTES_PREVIEW_DIR / f"{quote_path.name.removesuffix('.csv.gz')}.csv"
+        preview_path = QUOTES_PREVIEW_DIR / quote_path.name
         preview.to_csv(preview_path, index=False)
 
 

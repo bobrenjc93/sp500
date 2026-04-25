@@ -1,17 +1,16 @@
-# Yearly Quote Archives
+# Yearly Quote Files
 
-These files are the full yearly quote datasets stored as gzip-compressed CSV archives (`*.csv.gz`).
+Each year is stored twice in this folder:
 
-GitHub does not render compressed CSV files inline, so clicking one of these files in the web UI will usually show a binary/preview error instead of a table view.
+- `YYYY.csv` is the full browser-friendly CSV.
+- `YYYY.csv.gz` is the gzip-compressed copy of the same dataset.
 
-Use one of these paths instead:
-
-- Open `../preview/YYYY.csv` for a browser-friendly sample of the matching year.
-- Download `YYYY.csv.gz` when you need the full file.
+Use `../preview/YYYY.csv` when you only want the first 200 sorted rows for a quick scan.
 
 Examples:
 
 ```bash
+head data/quotes/by_year/2025.csv
 gzip -dc data/quotes/by_year/2025.csv.gz | head
-python3 -c "import pandas as pd; print(pd.read_csv('data/quotes/by_year/2025.csv.gz').head())"
+python3 -c "import pandas as pd; print(pd.read_csv('data/quotes/by_year/2025.csv').head())"
 ```
