@@ -2332,7 +2332,7 @@ spell-TECH-20210830,,TECH,TECH,Bio-Techne,Bio-Techne,2021-08-30,,fja_history,842
 spell-CDAY-20210920,,CDAY,CDAY,Ceridian,,2021-09-20,2024-02-01,fja_history,,,,,,CDAY,auto,
 spell-MTCH-20210920,,MTCH,MTCH,Match Group,,2021-09-20,2026-03-23,fja_history,,,,,,MTCH,auto,
 spell-BRO-20210920,,BRO,BRO,Brown & Brown,Brown & Brown,2021-09-20,,fja_history,79282,Financials,Insurance Brokers,"Daytona Beach, Florida",1939,BRO,auto,
-spell-CTRA-20211004,,CTRA,CTRA,Coterra,Coterra,2021-10-04,,fja_history,858470,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2021 (1989),CTRA,auto,
+spell-CTRA-20211004,,CTRA,CTRA,Coterra Energy,,2021-10-04,2026-05-07,fja_history,,,,,,CTRA,auto,
 spell-EPAM-20211214,,EPAM,EPAM,EPAM Systems,EPAM Systems,2021-12-14,,fja_history,1352010,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",1993,EPAM,auto,
 spell-SBNY-20211220,,SBNY,SBNY,Signature Bank,,2021-12-20,2023-03-15,fja_history,,,,,,SBNY,auto,
 spell-SEDG-20211220,,SEDG,SEDG,SolarEdge,,2021-12-20,2023-10-18,fja_history,,,,,,SEDG,auto,
@@ -2426,3 +2426,4 @@ spell-LITE-20260323,,LITE,LITE,Lumentum,Lumentum,2026-03-23,,wikipedia_recent_ch
 spell-SATS-20260323,,SATS,SATS,EchoStar,EchoStar,2026-03-23,,wikipedia_recent_changes,1415404,Communication Services,Wireless Telecommunication Services,"Englewood, Colorado",2008,SATS,auto,
 spell-VRT-20260323,,VRT,VRT,Vertiv,Vertiv,2026-03-23,,wikipedia_recent_changes,1674101,Industrials,Electrical Components & Equipment,"Westerville, Ohio",2016,,reused_symbol_requires_override,"The symbol is used by multiple membership spells, so ticker-only quote APIs are ambiguous."
 spell-CASY-20260409,,CASY,CASY,Casey's,Casey's,2026-04-09,,wikipedia_recent_changes,726958,Consumer Staples,Food Retail,"Ankeny, Iowa",1967,CASY,auto,
+spell-VEEV-20260507,,VEEV,VEEV,Veeva Systems,Veeva Systems,2026-05-07,,wikipedia_recent_changes,1393052,Health Care,Health Care Technology,"Pleasanton, California",2007,VEEV,auto,

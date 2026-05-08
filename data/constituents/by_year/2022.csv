@@ -119,7 +119,7 @@ as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_
 2022-12-31,spell-CSX-19960102,,CSX,CSX,CSX Corporation,CSX Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
 2022-12-31,spell-CTAS-20010301,,CTAS,CTAS,Cintas,Cintas,2001-03-01,,fja_history,auto
 2022-12-31,spell-CTLT-20200921,,CTLT,CTLT,Catalent,,2020-09-21,2024-12-23,fja_history,auto
-2022-12-31,spell-CTRA-20211004,,CTRA,CTRA,Coterra,Coterra,2021-10-04,,fja_history,auto
+2022-12-31,spell-CTRA-20211004,,CTRA,CTRA,Coterra Energy,,2021-10-04,2026-05-07,fja_history,auto
 2022-12-31,spell-CTSH-20061117,,CTSH,CTSH,Cognizant,Cognizant,2006-11-17,,fja_history,auto
 2022-12-31,spell-CTVA-20190603,,CTVA,CTVA,Corteva,Corteva,2019-06-03,,fja_history,auto
 2022-12-31,spell-CVS-19960102,,CVS,CVS,CVS Health,CVS Health,1996-01-02,,fja_history,auto

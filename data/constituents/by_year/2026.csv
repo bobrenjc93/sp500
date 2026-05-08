@@ -122,7 +122,6 @@ as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_
 2026-12-31,spell-CSGP-20220919,,CSGP,CSGP,CoStar Group,CoStar Group,2022-09-19,,fja_history,auto
 2026-12-31,spell-CSX-19960102,,CSX,CSX,CSX Corporation,CSX Corporation,1996-01-02,,fja_history,reused_symbol_requires_override
 2026-12-31,spell-CTAS-20010301,,CTAS,CTAS,Cintas,Cintas,2001-03-01,,fja_history,auto
-2026-12-31,spell-CTRA-20211004,,CTRA,CTRA,Coterra,Coterra,2021-10-04,,fja_history,auto
 2026-12-31,spell-CTSH-20061117,,CTSH,CTSH,Cognizant,Cognizant,2006-11-17,,fja_history,auto
 2026-12-31,spell-CTVA-20190603,,CTVA,CTVA,Corteva,Corteva,2019-06-03,,fja_history,auto
 2026-12-31,spell-CVNA-20251222,,CVNA,CVNA,Carvana,Carvana,2025-12-22,,fja_history,auto
@@ -465,6 +464,7 @@ as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_
 2026-12-31,spell-URI-20140922,,URI,URI,United Rentals,United Rentals,2014-09-22,,fja_history,auto
 2026-12-31,spell-USB-19960102,,USB,USB,U.S. Bancorp,U.S. Bancorp,1996-01-02,,fja_history,reused_symbol_requires_override
 2026-12-31,spell-V-20091221,,V,V,Visa Inc.,Visa Inc.,2009-12-21,,fja_history,auto
+2026-12-31,spell-VEEV-20260507,,VEEV,VEEV,Veeva Systems,Veeva Systems,2026-05-07,,wikipedia_recent_changes,auto
 2026-12-31,spell-VICI-20220608,,VICI,VICI,Vici Properties,Vici Properties,2022-06-08,,fja_history,auto
 2026-12-31,spell-VLO-20040429,,VLO,VLO,Valero Energy,Valero Energy,2004-04-29,,fja_history,auto
 2026-12-31,spell-VLTO-20231002,,VLTO,VLTO,Veralto,Veralto,2023-10-02,,fja_history,auto
