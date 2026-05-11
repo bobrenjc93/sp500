@@ -81,7 +81,7 @@ as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_
 2024-12-31,spell-CBOE-20170301,,CBOE,CBOE,Cboe Global Markets,Cboe Global Markets,2017-03-01,,fja_history,auto
 2024-12-31,spell-CBRE-20061110,,CBRE,CBRE,CBRE Group,CBRE Group,2006-11-10,,fja_history,auto
 2024-12-31,spell-CCI-20120313,,CCI,CCI,Crown Castle,Crown Castle,2012-03-13,,fja_history,reused_symbol_requires_override
-2024-12-31,spell-CCL-19981222,,CCL,CCL,Carnival,Carnival,1998-12-22,,fja_history,auto
+2024-12-31,spell-CCL-19981222,,CCL,CCL,Carnival Corporation,Carnival Corporation,1998-12-22,,fja_history,auto
 2024-12-31,spell-CDNS-20170918,,CDNS,CDNS,Cadence Design Systems,Cadence Design Systems,2017-09-18,,fja_history,auto
 2024-12-31,spell-CDW-20190923,,CDW,CDW,CDW Corporation,CDW Corporation,2019-09-23,,fja_history,auto
 2024-12-31,spell-CE-20181224,,CE,CE,Celanese,,2018-12-24,2025-04-24,fja_history,reused_symbol_requires_override

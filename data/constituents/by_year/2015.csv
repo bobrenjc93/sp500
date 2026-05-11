@@ -86,7 +86,7 @@ as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_
 2015-12-31,spell-CBS-19960102,,CBS,CBS,CBS,,1996-01-02,2019-12-05,fja_history,reused_symbol_requires_override
 2015-12-31,spell-CCE-19981008,,CCE,CCE,Coca-Cola Enterprises,,1998-10-08,2016-05-31,fja_history,auto
 2015-12-31,spell-CCI-20120313,,CCI,CCI,Crown Castle,Crown Castle,2012-03-13,,fja_history,reused_symbol_requires_override
-2015-12-31,spell-CCL-19981222,,CCL,CCL,Carnival,Carnival,1998-12-22,,fja_history,auto
+2015-12-31,spell-CCL-19981222,,CCL,CCL,Carnival Corporation,Carnival Corporation,1998-12-22,,fja_history,auto
 2015-12-31,spell-CELG-20061106,,CELG,CELG,Celgene,,2006-11-06,2019-11-21,fja_history,auto
 2015-12-31,spell-CERN-20100430,,CERN,CERN,Cerner,,2010-04-30,2022-06-08,fja_history,auto
 2015-12-31,spell-CF-20080827,,CF,CF,CF Industries,CF Industries,2008-08-27,,fja_history,reused_symbol_requires_override

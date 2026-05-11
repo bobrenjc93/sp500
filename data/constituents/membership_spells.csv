@@ -1744,7 +1744,7 @@ spell-NCE-19981103,,NCE,NCE,NCE,,1998-11-03,2000-08-21,fja_history,,,,,,NCE,auto
 spell-SWY-19981113,,SWY,SWY,Safeway,,1998-11-13,2015-01-27,fja_history,,,,,,SWY,auto,
 spell-DHR-19981118,,DHR,DHR,Danaher Corporation,Danaher Corporation,1998-11-18,,fja_history,313616,Health Care,Life Sciences Tools & Services,"Washington, D.C.",1969,DHR,auto,
 spell-PCS-19981124,,PCS,PCS,MetroPCS,,1998-11-24,2004-04-23,fja_history,,,,,,PCS,auto,
-spell-CCL-19981222,,CCL,CCL,Carnival,Carnival,1998-12-22,,fja_history,815097,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1972,CCL,auto,
+spell-CCL-19981222,,CCL,CCL,Carnival Corporation,Carnival Corporation,1998-12-22,,fja_history,815097,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1972,CCL,auto,
 spell-SLR-19981231,,SLR,SLR,Solectron,,1998-12-31,2007-10-02,fja_history,,,,,,SLR,auto,
 spell-CPWR-19990104,,CPWR,CPWR,Compuware,,1999-01-04,2012-01-03,fja_history,,,,,,CPWR,auto,
 spell-MCK-19990113,,MCK,MCK,McKesson Corporation,McKesson Corporation,1999-01-13,,fja_history,927653,Health Care,Health Care Distributors,"Irving, Texas",1833,,reused_symbol_requires_override,"The symbol is used by multiple membership spells, so ticker-only quote APIs are ambiguous."

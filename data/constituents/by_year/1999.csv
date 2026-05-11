@@ -88,7 +88,7 @@ as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_
 1999-12-31,spell-CBS-19960102,,CBS,CBS,CBS,,1996-01-02,2019-12-05,fja_history,reused_symbol_requires_override
 1999-12-31,spell-CCE-19981008,,CCE,CCE,Coca-Cola Enterprises,,1998-10-08,2016-05-31,fja_history,auto
 1999-12-31,spell-CCK-19960102,,CCK,CCK,Crown Holdings,,1996-01-02,2000-12-11,fja_history,reused_symbol_requires_override
-1999-12-31,spell-CCL-19981222,,CCL,CCL,Carnival,Carnival,1998-12-22,,fja_history,auto
+1999-12-31,spell-CCL-19981222,,CCL,CCL,Carnival Corporation,Carnival Corporation,1998-12-22,,fja_history,auto
 1999-12-31,spell-CCTYQ-19960102,,CCTYQ,CCTYQ,CCTYQ,,1996-01-02,2008-03-31,fja_history,auto
 1999-12-31,spell-CCU-19970902,,CCU,CCU,CCU,,1997-09-02,2008-07-31,fja_history,auto
 1999-12-31,spell-CEG-19960102,,CEG,CEG,Constellation Energy,Constellation Energy,1996-01-02,2012-03-13,fja_history,reused_symbol_requires_override

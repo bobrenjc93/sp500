@@ -92,7 +92,7 @@ as_of_date,member_id,permno,symbol,ticker_history,company_name,current_security_
 2003-12-31,spell-CBE-19960102,,CBE,CBE,Cooper Industries,,1996-01-02,2009-09-09,fja_history,reused_symbol_requires_override
 2003-12-31,spell-CBS-19960102,,CBS,CBS,CBS,,1996-01-02,2019-12-05,fja_history,reused_symbol_requires_override
 2003-12-31,spell-CCE-19981008,,CCE,CCE,Coca-Cola Enterprises,,1998-10-08,2016-05-31,fja_history,auto
-2003-12-31,spell-CCL-19981222,,CCL,CCL,Carnival,Carnival,1998-12-22,,fja_history,auto
+2003-12-31,spell-CCL-19981222,,CCL,CCL,Carnival Corporation,Carnival Corporation,1998-12-22,,fja_history,auto
 2003-12-31,spell-CCTYQ-19960102,,CCTYQ,CCTYQ,CCTYQ,,1996-01-02,2008-03-31,fja_history,auto
 2003-12-31,spell-CCU-19970902,,CCU,CCU,CCU,,1997-09-02,2008-07-31,fja_history,auto
 2003-12-31,spell-CE-20010402,,CE,CE,Celanese,,2001-04-02,2004-02-27,fja_history,reused_symbol_requires_override
